@@ -1,0 +1,17 @@
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+  vertical-align: top;
+  padding: 0px;
+}
+th, td {
+  background-color: #96D4D4;
+} 
+
+.small_body_table tbody {
+  font-size: 9pt;
+}
+
+.small_body_table table, td, th {
+  padding-top: 0px !important;
+}
