@@ -36,13 +36,24 @@ and professional work.
 
 ### Instructional Team 
 
-<div class='small_body_table'>
+  * <b>Christian Testa</b><br>
+    Statistical Data Analyst<br>
+    Department of Social and Behavioral Sciences<br>
+    <ctesta@hsph.harvard.edu><br>
+    <https://scholar.harvard.edu/ctesta>
+  * <b>Dean Marengi</b><br>
+    2nd year PhD Student<br>
+    Department of Environmental Health<br>
+    <dean_marengi@g.harvard.edu>
+  * <b>Amanda Hernandez</b><br>
+    2nd year Masters Student<br>
+    Department of Environmental Health<br>
+    <amandahernandez@hsph.harvard.edu>
+    <https://github.com/amandabhernandez>
+  * <b>Jarvis Chen</b><br>
+    Lecturer<br>
+    Department of Social and Behavioral Sciences<br>
+    <jarvis@hsph.harvard.edu>
+    <https://www.hsph.harvard.edu/profile/jarvischen/>
 
-|Christian Testa|Dean Marengi|Jarvis Chen|
-|-|-|-|
-|Department of Social and Behavioral Sciences|Department of Environmental Health|Department of Social and Behavioral Sciences|
-|<ctesta@hsph.harvard.edu>|<dean_marengi@g.harvard.edu>|<jarvis@hsph.harvard.edu>|
-|<https://scholar.harvard.edu/ctesta>||<https://www.hsph.harvard.edu/profile/jarvischen/>|
-
-</div>
-
+<iframe>
