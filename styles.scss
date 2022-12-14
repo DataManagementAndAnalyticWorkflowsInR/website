@@ -1,3 +1,10 @@
+/*-- scss:defaults --*/
+$crimson: #A51C30;
+$blue: #4e88c7;
+
+$primary: $blue !default;
+
+/*-- scss:rules --*/
 table, th, td {
   border: 1px solid white;
   border-collapse: collapse;
@@ -15,3 +22,5 @@ th, td {
 .small_body_table table, td, th {
   padding-top: 0px !important;
 }
+
+

@@ -1,0 +1,10 @@
+---
+title: "Day 2 — Tuesday, January 10th, 2022"
+sidebar:
+  style: "floating"
+  search: true
+  contents: auto
+---
+
+{{< include ../lectures/day2/readme.md >}}
+

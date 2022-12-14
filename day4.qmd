@@ -1,0 +1,10 @@
+---
+title: "Day 4 — Thursday, January 12th, 2022"
+sidebar:
+  style: "floating"
+  search: true
+  contents: auto
+---
+
+{{< include ../lectures/day4/readme.md >}}
+

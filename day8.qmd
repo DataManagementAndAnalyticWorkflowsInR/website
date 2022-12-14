@@ -1,0 +1,10 @@
+---
+title: "Day 8 — Thursday, January 19th, 2022"
+sidebar:
+  style: "floating"
+  search: true
+  contents: auto
+---
+
+{{< include ../lectures/day8/readme.md >}}
+

@@ -1,0 +1,10 @@
+---
+title: "Day 6 — Tuesday, January 17th, 2022"
+sidebar:
+  style: "floating"
+  search: true
+  contents: auto
+---
+
+{{< include ../lectures/day6/readme.md >}}
+

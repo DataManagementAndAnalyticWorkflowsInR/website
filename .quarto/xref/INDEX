@@ -4,5 +4,35 @@
   },
   "about.qmd": {
     "about.html": "313e8500"
+  },
+  "curriculum.qmd": {
+    "curriculum.html": "8848ad3e"
+  },
+  "day8.qmd": {
+    "day8.html": "219e0db3"
+  },
+  "day9.qmd": {
+    "day9.html": "1c2a34b0"
+  },
+  "day4.qmd": {
+    "day4.html": "7fd81218"
+  },
+  "day5.qmd": {
+    "day5.html": "ba2481c2"
+  },
+  "day7.qmd": {
+    "day7.html": "9ecd5557"
+  },
+  "day6.qmd": {
+    "day6.html": "94c1f327"
+  },
+  "day2.qmd": {
+    "day2.html": "5d1c700a"
+  },
+  "day3.qmd": {
+    "day3.html": "ad4b9fa0"
+  },
+  "day1.qmd": {
+    "day1.html": "bb1107fb"
   }
 }
