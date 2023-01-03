@@ -6,5 +6,5 @@ sidebar:
   contents: auto
 ---
 
-{{< include ../lectures/day3/readme.md >}}
+{{< include ../lectures/day3/readme-day3.md >}}
 

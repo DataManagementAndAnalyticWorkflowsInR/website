@@ -3,5 +3,5 @@ title: "Day 9 — Friday, January 20th, 2022"
 format: html
 ---
 
-{{< include ../lectures/day9/readme.md >}}
+{{< include ../lectures/day9/readme-day9.md >}}
 

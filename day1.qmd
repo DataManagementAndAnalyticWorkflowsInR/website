@@ -3,8 +3,10 @@ title: "Day 1 — Monday, January 9th, 2022"
 format: html
 ---
 
-{{< include ../lectures/day1/readme.md >}}
+{{< include ../lectures/day1/readme-day1.md >}}
 
 <iframe src="https://id529.github.io/lectures/day1/lecture1-intro/lecture1.html#/title-slide" width="100%" height="500px"></iframe>
+<a href="https://id529.github.io/lectures/day1/lecture1-intro/lecture1.html#/title-slide" >link to view slides fullscreen</iframe>
 
-<iframe src="https://id529.github.io/lectures/day1/lecture2-final-presentation-format/final_presentation_format.html#/title-slide" width="100%" height="500px">
+<iframe src="https://id529.github.io/lectures/day1/lecture2-final-presentation-format/final_presentation_format.html#/title-slide" width="100%" height="500px"></iframe>
+<a href="https://id529.github.io/lectures/day1/lecture2-final-presentation-format/final_presentation_format.html#/title-slide">link to view slides fullscreen</a>
