@@ -1,0 +1,10 @@
+---
+title: "Day 5 — Friday, January 13th, 2022"
+sidebar:
+  style: "floating"
+  search: true
+  contents: auto
+---
+
+{{< include ../lectures/day5/readme-day5.md >}}
+

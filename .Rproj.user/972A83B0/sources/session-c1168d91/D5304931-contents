@@ -1,0 +1,10 @@
+---
+title: "Day 3 — Wednesday, January 11th, 2022"
+sidebar:
+  style: "floating"
+  search: true
+  contents: auto
+---
+
+{{< include ../lectures/day3/readme-day3.md >}}
+

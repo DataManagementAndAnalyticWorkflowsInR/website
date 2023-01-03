@@ -1,0 +1,10 @@
+---
+title: "Day 7 — Wednesday, January 18th, 2022"
+sidebar:
+  style: "floating"
+  search: true
+  contents: auto
+---
+
+{{< include ../lectures/day7/readme-day7.md >}}
+
