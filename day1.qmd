@@ -5,6 +5,10 @@ format: html
 
 {{< include ../lectures/day1/readme-day1.md >}}
 
+## Video Recording
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/yxvROGxWys0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Slides
 
 <iframe src="https://id529.github.io/lectures/day1/lecture1-intro/lecture1.html#/title-slide" width="100%" height="500px"></iframe>
