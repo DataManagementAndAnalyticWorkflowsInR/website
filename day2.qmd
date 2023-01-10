@@ -13,8 +13,8 @@ sidebar:
 <iframe src="https://id529.github.io/lectures/day2/lecture1-intro-to-r/programming_with_r.html#/title-slide" width="100%" height="500px"></iframe>
 <a href="https://id529.github.io/lectures/day2/lecture1-intro-to-r/programming_with_r.html" >link to view slides fullscreen</iframe>
 
-<iframe src="https://id529.github.io/lectures/day2/lecture1-intro-to-r/programming_with_r.html#/title-slide" width="100%" height="500px"></iframe>
-<a href="https://id529.github.io/lectures/day2/lecture1-intro-to-r/programming_with_r.html" >link to view slides fullscreen</iframe>
+<iframe src="https://id529.github.io/lectures/day2/lecture2-data-dictionaries-and-documentation/data-documentation.html" width="100%" height="500px"></iframe>
+<a href="https://id529.github.io/lectures/day2/lecture2-data-dictionaries-and-documentation/data-documentation.html" >link to view slides fullscreen</iframe>
 
 <iframe src="https://id529.github.io/lectures/day2/lecture3-reading-in-data/reading-in-data.html" width="100%" height="500px"></iframe>
 <a href="https://id529.github.io/lectures/day2/lecture3-reading-in-data/reading-in-data.html" >link to view slides fullscreen</iframe>
