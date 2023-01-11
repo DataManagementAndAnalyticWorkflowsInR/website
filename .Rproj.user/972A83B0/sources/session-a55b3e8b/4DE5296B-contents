@@ -1,0 +1,23 @@
+---
+title: "Day 3 — Wednesday, January 11th, 2022"
+sidebar:
+  style: "floating"
+  search: true
+  contents: auto
+---
+
+{{< include ../lectures/day3/readme-day3.md >}}
+
+## Slides
+
+<iframe src="https://id529.github.io/lectures/day3/lecture1-projects-in-rstudio/r-projects.html" width="100%" height="500px"></iframe>
+<a href="https://id529.github.io/lectures/day3/lecture1-projects-in-rstudio/r-projects.html" >link to view slides fullscreen</iframe>
+
+<iframe src="https://id529.github.io/lectures/day3/lecture2-intro-to-dplyr/intro-to-dplyr.html" width="100%" height="500px"></iframe>
+<a href="https://id529.github.io/lectures/day3/lecture2-intro-to-dplyr/intro-to-dplyr.html" >link to view slides fullscreen</iframe>
+
+<iframe src="https://id529.github.io/lectures/day3/lecture4-cleaning-text-data/cleaning-text-data.html" width="100%" height="500px"></iframe>
+<a href="https://id529.github.io/lectures/day3/lecture4-cleaning-text-data/cleaning-text-data.html" >link to view slides fullscreen</iframe>
+
+<iframe src="https://id529.github.io/lectures/day3/lecture5-functions/functions.html" width="100%" height="500px"></iframe>
+<a href="https://id529.github.io/lectures/day3/lecture5-functions/functions.html" >link to view slides fullscreen</iframe>
