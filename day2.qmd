@@ -8,6 +8,11 @@ sidebar:
 
 {{< include ../lectures/day2/readme-day2.md >}}
 
+## Video Recording
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2m7AHInKTXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ## Slides
 
 <iframe src="https://id529.github.io/lectures/day2/lecture1-intro-to-r/programming_with_r.html#/title-slide" width="100%" height="500px"></iframe>
