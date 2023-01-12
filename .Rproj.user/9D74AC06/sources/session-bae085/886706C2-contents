@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>ID529: Data Management and Analytic Workflows in R</title>
+<title>ID529: Data Management and Analytic Workflows in R – Syllabus</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -80,12 +80,12 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"><i class="bi bi-house" role="img">
+    <a class="nav-link" href="./index.html"><i class="bi bi-house" role="img">
 </i> 
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"><i class="bi bi-file-richtext" role="img">
+    <a class="nav-link active" href="./about.html" aria-current="page"><i class="bi bi-file-richtext" role="img">
 </i> 
  <span class="menu-text">Syllabus</span></a>
   </li>  
@@ -145,24 +145,14 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#welcome-to-id529-data-management-and-analytic-workflows-in-r" id="toc-welcome-to-id529-data-management-and-analytic-workflows-in-r" class="nav-link active" data-scroll-target="#welcome-to-id529-data-management-and-analytic-workflows-in-r">Welcome to ID529 Data Management and Analytic Workflows in R</a>
-  <ul class="collapse">
-  <li><a href="#course-description" id="toc-course-description" class="nav-link" data-scroll-target="#course-description">Course Description</a></li>
-  <li><a href="#instructional-team" id="toc-instructional-team" class="nav-link" data-scroll-target="#instructional-team">Instructional Team</a></li>
-  </ul></li>
-  </ul>
-</nav>
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">ID529: Data Management and Analytic Workflows in R</h1>
+<h1 class="title">Syllabus</h1>
 </div>
 
 
@@ -177,49 +167,14 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="welcome-to-id529-data-management-and-analytic-workflows-in-r" class="level2">
-<h2 class="anchored" data-anchor-id="welcome-to-id529-data-management-and-analytic-workflows-in-r">Welcome to ID529 Data Management and Analytic Workflows in R</h2>
-<p>Details:</p>
-<ul>
-<li>
-Find the course on <a href="https://courses.my.harvard.edu/psp/courses/EMPLOYEE/EMPL/h/?tab=HU_CLASS_SEARCH&amp;SearchReqJSON=%7B%22PageNumber%22%3A1%2C%22PageSize%22%3A%22%22%2C%22SortOrder%22%3A%5B%22SCORE%22%5D%2C%22Facets%22%3A%5B%5D%2C%22Category%22%3A%22HU_SCL_SCHEDULED_BRACKETED_COURSES%22%2C%22SearchPropertiesInResults%22%3Atrue%2C%22FacetsInResults%22%3Atrue%2C%22SaveRecent%22%3Afalse%2C%22TopN%22%3A%22%22%2C%22ExcludeBracketed%22%3Atrue%2C%22SearchText%22%3A%22ID529%22%2C%22DeepLink%22%3Afalse%7D">my.harvard.edu</a>
-</li>
-<li>
-Course Hours: 1:30-5:30 PM
-</li>
-<li>
-Course Dates: Monday January 9th - Friday January 13th, Tuesday January 17th - Friday January 20th, 2023
-</li>
-<li>
-Office Hours: 11:30 AM – 12:30 PM on Wednesday January 11th, Tuesday January 17th, Thursday January 19th
-</li>
-<li>
-Limit 60 students, priority for Population Health Science (PHS) students
-</li>
-</ul>
-<section id="course-description" class="level3">
-<h3 class="anchored" data-anchor-id="course-description">Course Description</h3>
-<div class="alert alert-secondary">
-<p><em>Data Management and Analytic Workflows in R</em> will introduce students to R programming and modern data management and analysis workflows applied to examples from population health science. Throughout, we will emphasize reproducibility, open science, data visualization, and dynamic document generation. Specific skills learned will include the use of the RStudio integrated development environment, tidy data management practices/workflows, how to get help in programming, and how to use GitHub to track changes in code, disseminate professional work, and integrate feedback. Coursework will consist of lectures, in-class group work, homework, peer assessment, and time for discussion. This course complements graduate-level courses in statistics and quantitative research methods by helping students develop practical skills for conducting independent research incorporating modern data science principles. Students completing this course will have a solid foundation enabling them to handle complex data management tasks and data communication skills for research and professional work.</p>
-</div>
-</section>
-<section id="instructional-team" class="level3">
-<h3 class="anchored" data-anchor-id="instructional-team">Instructional Team</h3>
-<ul>
-<li><b>Christian Testa</b><br> Statistical Data Analyst<br> Department of Social and Behavioral Sciences<br> <a href="mailto:ctesta@hsph.harvard.edu" class="email">ctesta@hsph.harvard.edu</a><br> <a href="https://scholar.harvard.edu/ctesta" class="uri">https://scholar.harvard.edu/ctesta</a></li>
-<li><b>Dean Marengi</b><br> 2nd year PhD Student<br> Department of Environmental Health<br> <a href="mailto:dean_marengi@g.harvard.edu" class="email">dean_marengi@g.harvard.edu</a></li>
-<li><b>Amanda Hernandez</b><br> 2nd year Masters Student<br> Department of Environmental Health<br> <a href="mailto:amandahernandez@hsph.harvard.edu" class="email">amandahernandez@hsph.harvard.edu</a> <a href="https://github.com/amandabhernandez" class="uri">https://github.com/amandabhernandez</a></li>
-<li><b>Jarvis Chen</b><br> Lecturer<br> Department of Social and Behavioral Sciences<br> <a href="mailto:jarvis@hsph.harvard.edu" class="email">jarvis@hsph.harvard.edu</a> <a href="https://www.hsph.harvard.edu/profile/jarvischen/" class="uri">https://www.hsph.harvard.edu/profile/jarvischen/</a></li>
-</ul>
-<iframe>
+<p>You can find more out about our course in the <a href="assets/ID529 Syllabus.pdf">syllabus</a>.</p>
+<iframe src="./assets/ID529 Syllabus.pdf" width="100%" height="1020px">
 <div id="quarto-navigation-envelope" class="hidden">
 <p><span class="hidden" data-render-id="quarto-int-sidebar-title">ID529: Data Management and Analytic Workflows in R</span> <span class="hidden" data-render-id="quarto-int-navbar-title">ID529: Data Management and Analytic Workflows in R</span> <span class="hidden" data-render-id="quarto-int-navbar:Home">Home</span> <span class="hidden" data-render-id="quarto-int-navbar:Syllabus">Syllabus</span> <span class="hidden" data-render-id="quarto-int-navbar:Curriculum">Curriculum</span> <span class="hidden" data-render-id="quarto-int-navbar:Day 1 — Monday January 9, 2022">Day 1 — Monday January 9, 2022</span> <span class="hidden" data-render-id="quarto-int-navbar:Day 2 — Tuesday January 10, 2022">Day 2 — Tuesday January 10, 2022</span> <span class="hidden" data-render-id="quarto-int-navbar:Day 3 — Wednesday January 11, 2022">Day 3 — Wednesday January 11, 2022</span> <span class="hidden" data-render-id="quarto-int-navbar:Day 4 — Thursday January 12, 2022">Day 4 — Thursday January 12, 2022</span> <span class="hidden" data-render-id="quarto-int-navbar:Day 5 — Friday January 13, 2022">Day 5 — Friday January 13, 2022</span> <span class="hidden" data-render-id="quarto-int-navbar:Day 6 — Tuesday January 17, 2022">Day 6 — Tuesday January 17, 2022</span> <span class="hidden" data-render-id="quarto-int-navbar:Day 7 — Wednesday January 18, 2022">Day 7 — Wednesday January 18, 2022</span> <span class="hidden" data-render-id="quarto-int-navbar:Day 8 — Thursday January 19, 2022">Day 8 — Thursday January 19, 2022</span> <span class="hidden" data-render-id="quarto-int-navbar:Day 9 — Friday January 20, 2022">Day 9 — Friday January 20, 2022</span></p>
 </div>
 <div id="quarto-meta-markdown" class="hidden">
-<p><span class="hidden" data-render-id="quarto-metatitle">ID529: Data Management and Analytic Workflows in R</span> <span class="hidden" data-render-id="quarto-twittercardtitle">ID529: Data Management and Analytic Workflows in R</span> <span class="hidden" data-render-id="quarto-ogcardtitle">ID529: Data Management and Analytic Workflows in R</span> <span class="hidden" data-render-id="quarto-metasitename">ID529: Data Management and Analytic Workflows in R</span></p>
+<p><span class="hidden" data-render-id="quarto-metatitle">ID529: Data Management and Analytic Workflows in R - Syllabus</span> <span class="hidden" data-render-id="quarto-twittercardtitle">ID529: Data Management and Analytic Workflows in R - Syllabus</span> <span class="hidden" data-render-id="quarto-ogcardtitle">ID529: Data Management and Analytic Workflows in R - Syllabus</span> <span class="hidden" data-render-id="quarto-metasitename">ID529: Data Management and Analytic Workflows in R</span></p>
 </div>
-</section>
-</section>
 
 </main> <!-- /main -->
 <script id = "quarto-html-after-body" type="application/javascript">
@@ -359,4 +314,4 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 </body>
 
-</html></iframe></section></section></main></div></body></html>
+</html></iframe></main></div></body></html>
