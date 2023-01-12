@@ -1,0 +1,47 @@
+---
+title: "Day 4 — Thursday, January 12th, 2022"
+sidebar:
+  style: "floating"
+  search: true
+  contents: auto
+---
+
+{{< include ../lectures/day4/readme-day4.md >}}
+
+
+## Slides
+
+### Lecture 1: Diverse Data Sources
+<iframe src="https://id529.github.io/lectures/day4/lecture1-diverse-data-sources/diverse_data_sources.html" width="100%" height="500px"></iframe>
+<a href="https://id529.github.io/lectures/day4/lecture1-diverse-data-sources/diverse_data_sources.html" >link to view slides fullscreen</a>
+<br>
+
+### Lecture 2: Factors and Date-times
+<iframe src="https://id529.github.io/lectures/day4/lecture2-factors-and-datetimes/fct_datetime.html" width="100%" height="500px"></iframe>
+<a href="https://id529.github.io/lectures/day4/lecture2-factors-and-datetimes/fct_datetime.html" >link to view slides fullscreen</iframe>
+<br>
+<a href="https://id529.github.io/lectures/day4/factor_datetime_code/fct_datetime.R" >link to follow along code</a>
+<br> 
+<a href = "https://drive.google.com/file/d/1ZjORbSc9zDEr26TI9jhu-_llKvQ3SmDu/view?usp=share_link" > link to slide PDFs </a> 
+<br> 
+
+### Lecture 3: Regression
+<a href = "https://id529.github.io/lectures/day4/lecture3-regression/id529_modelingWorkflows.pdf" > link to slide PDFs</a> 
+<br>
+<a href="https://github.com/jarvischen01/id529-regression-models" >link to repository</a></iframe>
+<br> 
+
+### Lecture 4: Creating maps in R 
+<iframe src="https://id529.github.io/lectures/day4/lecture4-mapping/making-maps-in-R.html" width="100%" height="500px"></iframe>
+<a href="https://id529.github.io/lectures/day4/lecture4-mapping/making-maps-in-R.html" >link to view slides fullscreen</a>
+<br> 
+<a> link to slide PDFs </a> 
+<br> 
+
+### Lecture 5: Reproducible examples for getting help in R
+<br>
+<iframe src="https://id529.github.io/lectures/day4/lecture5-reprex/reprex.html" width="100%" height="500px"></iframe>
+<a href="https://id529.github.io/lectures/day4/lecture5-reprex/reprex.html" >link to view slides fullscreen </a>
+<br> 
+<a href = "https://drive.google.com/file/d/1qx0uWyigQs7eWo89fI3CmXJzjMc2dEjK/view?usp=share_link" > link to slide PDFs </a> 
+<br> 
