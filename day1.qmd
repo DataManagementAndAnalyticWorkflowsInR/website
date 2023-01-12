@@ -12,16 +12,26 @@ format: html
 ## Slides
 
 <iframe src="https://id529.github.io/lectures/day1/lecture1-intro/lecture1.html#/title-slide" width="100%" height="500px"></iframe>
-<a href="https://id529.github.io/lectures/day1/lecture1-intro/lecture1.html#/title-slide" >link to view slides fullscreen</iframe>
+<a href="https://id529.github.io/lectures/day1/lecture1-intro/lecture1.html#/title-slide" >link to view slides fullscreen</a>
+<br>
+<a href="https://drive.google.com/file/d/1OPDOCs8pLop5dPpOb-vAZSC6SWOPyXN-/view?usp=share_link">link to pdf slides</a>
 
 <iframe src="https://id529.github.io/lectures/day1/lecture2-final-presentation-format/final_presentation_format.html#/title-slide" width="100%" height="500px"></iframe>
 <a href="https://id529.github.io/lectures/day1/lecture2-final-presentation-format/final_presentation_format.html#/title-slide">link to view slides fullscreen</a>
+<br>
+<a href="https://drive.google.com/file/d/1pFjrgODaHoDp28q2AbIz5C8gFj9OTE_9/view?usp=share_link">link to pdf slides</a>
+
 
 <iframe src="https://id529.github.io/lectures/day1/lecture3-intro-to-rstudio-and-r/rstudio-and-r.html" width="100%" height="500px"></iframe>
 <a href="https://id529.github.io/lectures/day1/lecture3-intro-to-rstudio-and-r/rstudio-and-r.html">link to view slides fullscreen</a>
+<br>
+<a href="https://drive.google.com/file/d/1yZh6MUvCDkFhN_uQHb5iRTD292nDBxs2/view?usp=share_link">link to pdf slides</a>
+
 
 <iframe src="https://id529.github.io/lectures/day1/lecture4-intro-to-git-and-github/git-and-github.html" width="100%" height="500px"></iframe>
 <a href="https://id529.github.io/lectures/day1/lecture4-intro-to-git-and-github/git-and-github.html">link to view slides fullscreen</a>
+<br>
+<a href="https://drive.google.com/file/d/1yZh6MUvCDkFhN_uQHb5iRTD292nDBxs2/view?usp=share_link"> link to pdf slides </a>
 
 ### Positive Affirmations 
 
