@@ -1,0 +1,31 @@
+---
+title: "Day 5 — Friday, January 13th, 2022"
+sidebar:
+  style: "floating"
+  search: true
+  contents: auto
+---
+
+{{< include ../lectures/day5/readme-day5.md >}}
+
+
+## Slides
+
+### Lecture 1: Reproducibility and Robustness
+<iframe src="https://id529.github.io/lectures/day5/lecture1-reproducibility-and-robustness/reproducibility.html" width="100%" height="500px"></iframe>
+<a href="https://id529.github.io/lectures/day5/lecture1-reproducibility-and-robustness/reproducibility.html" >link to view slides fullscreen</a>
+<br>
+<a href="https://drive.google.com/file/d/1x5qKKmHCIaHb2KJvkvioVHSUBUkdrGEy/view?usp=share_link" > link to slide PDFs </a>
+<br>
+
+### Lecture 2: Regression (part 2!)
+
+<a href = "https://id529.github.io/lectures/day4/lecture3-regression/id529_modelingWorkflows.pdf" > link to slide PDFs</a> 
+<br>
+<a href="https://github.com/jarvischen01/id529-regression-models" >link to repository</a></iframe>
+<br> 
+
+
+### Lecture 3: Data linkage methods
+
+Coming soon!!! 
