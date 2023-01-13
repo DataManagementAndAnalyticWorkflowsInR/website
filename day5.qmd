@@ -20,12 +20,10 @@ sidebar:
 
 ### Lecture 2: Regression (part 2!)
 
-<a href = "https://id529.github.io/lectures/day4/lecture3-regression/id529_modelingWorkflows.pdf" > link to slide PDFs</a> 
+<a href = "https://drive.google.com/file/d/1F00Sko2LFk3kuPQ3SE2yG9Kmg1Lv0lVC/view?usp=share_link" > link to slide PDFs</a> 
 <br>
 <a href="https://github.com/jarvischen01/id529-regression-models" >link to repository</a></iframe>
 <br> 
 
 
 ### Lecture 3: Data linkage methods
-
-Coming soon!!! 
