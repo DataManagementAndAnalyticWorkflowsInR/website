@@ -12,16 +12,25 @@ sidebar:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g5s2jibMhAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Slides
+## Resources
+<a href="https://docs.google.com/document/d/1F5rgKfnvoyrj8gsbH-yP5XgTkDm2uUvJLQExhm7UlTA/edit?usp=share_link"> link to daily google doc </a>
+<a href="https://drive.google.com/drive/folders/1lTmPCQhHdcXlf0CB8L6TopFvJ6x7kO4b?usp=share_link"> link to PDF slides </a>
 
+
+
+### Lecture 1: Projects in RStudio
 <iframe src="https://id529.github.io/lectures/day3/lecture1-projects-in-rstudio/r-projects.html" width="100%" height="500px"></iframe>
 <a href="https://id529.github.io/lectures/day3/lecture1-projects-in-rstudio/r-projects.html" >link to view slides fullscreen</iframe>
 
+### Lecture 2: Intro to dplyr
 <iframe src="https://id529.github.io/lectures/day3/lecture2-intro-to-dplyr/intro-to-dplyr.html" width="100%" height="500px"></iframe>
 <a href="https://id529.github.io/lectures/day3/lecture2-intro-to-dplyr/intro-to-dplyr.html" >link to view slides fullscreen</iframe>
 
+### Lecture 4: Cleaning Text Data
 <iframe src="https://id529.github.io/lectures/day3/lecture4-cleaning-text-data/cleaning-text-data.html" width="100%" height="500px"></iframe>
 <a href="https://id529.github.io/lectures/day3/lecture4-cleaning-text-data/cleaning-text-data.html" >link to view slides fullscreen</iframe>
 
+
+### Lecture 5: Functions
 <iframe src="https://id529.github.io/lectures/day3/lecture5-functions/functions.html" width="100%" height="500px"></iframe>
 <a href="https://id529.github.io/lectures/day3/lecture5-functions/functions.html" >link to view slides fullscreen</iframe>
