@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.269">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>ID529: Data Management and Analytic Workflows in R - Day 5 — Friday, January 13th, 2022</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href=".//assets/logo.svg" rel="icon" type="image/svg+xml">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">ID529: Data Management and Analytic Workflows in R</span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"><i class="bi bi-house" role="img">
+</i> 
+ <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./about.html"><i class="bi bi-file-richtext" role="img">
+</i> 
+ <span class="menu-text">Syllabus</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-curriculum" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+      <i class="bi bi-mortarboard" role="img">
+</i> 
+ <span class="menu-text">Curriculum</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-curriculum">    
+        <li>
+    <a class="dropdown-item" href="./day1.html">
+ <span class="dropdown-text">Day 1 — Monday January 9, 2022</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./day2.html">
+ <span class="dropdown-text">Day 2 — Tuesday January 10, 2022</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./day3.html">
+ <span class="dropdown-text">Day 3 — Wednesday January 11, 2022</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./day4.html">
+ <span class="dropdown-text">Day 4 — Thursday January 12, 2022</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./day5.html">
+ <span class="dropdown-text">Day 5 — Friday January 13, 2022</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./day6.html">
+ <span class="dropdown-text">Day 6 — Tuesday January 17, 2022</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./day7.html">
+ <span class="dropdown-text">Day 7 — Wednesday January 18, 2022</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./day8.html">
+ <span class="dropdown-text">Day 8 — Thursday January 19, 2022</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./day9.html">
+ <span class="dropdown-text">Day 9 — Friday January 20, 2022</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#friday-january-13th" id="toc-friday-january-13th" class="nav-link active" data-scroll-target="#friday-january-13th">Friday January 13th</a>
+  <ul class="collapse">
+  <li><a href="#homework-4" id="toc-homework-4" class="nav-link" data-scroll-target="#homework-4">Homework 4</a></li>
+  <li><a href="#availablerecommended-materials" id="toc-availablerecommended-materials" class="nav-link" data-scroll-target="#availablerecommended-materials">Available/Recommended Materials:</a></li>
+  </ul></li>
+  <li><a href="#video-recording" id="toc-video-recording" class="nav-link" data-scroll-target="#video-recording">Video Recording</a></li>
+  <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources">Resources</a>
+  <ul class="collapse">
+  <li><a href="#lecture-1-reproducibility-and-robustness" id="toc-lecture-1-reproducibility-and-robustness" class="nav-link" data-scroll-target="#lecture-1-reproducibility-and-robustness">Lecture 1: Reproducibility and Robustness</a></li>
+  <li><a href="#lecture-2-regression-part-2" id="toc-lecture-2-regression-part-2" class="nav-link" data-scroll-target="#lecture-2-regression-part-2">Lecture 2: Regression (part 2!)</a></li>
+  <li><a href="#lecture-3-data-linkage-methods" id="toc-lecture-3-data-linkage-methods" class="nav-link" data-scroll-target="#lecture-3-data-linkage-methods">Lecture 3: Data linkage methods</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Day 5 — Friday, January 13th, 2022</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<section id="friday-january-13th" class="level2">
+<h2 class="anchored" data-anchor-id="friday-january-13th">Friday January 13th</h2>
+<ul>
+<li>1:30-2:00 Lecture: Why reproducibility and robustness are important principles in science and data analysis and acknowledging the pressures in academia that push people away from reproducible science</li>
+<li>2:00-2:15 Discussion</li>
+<li>2:15-2:45 Lecture: Visualizing and Reporting on Regression Models</li>
+<li>2:45-3:05 Lecture: Data Linkage Methods</li>
+<li>3:05-3:25 Activity: Working with Joins</li>
+<li>3:25-3:35 Break</li>
+<li>3:35-4:00 Activity: Hallway QR Code Challenges</li>
+<li>4:00-4:15 Lecture: Introduction of the Brown et al (partial) reproduction of Onikye et al’s results</li>
+<li>4:15-4:30 Homework demonstration</li>
+<li>4:30-5:25 Time to work on homework + chat together + work on final projects</li>
+<li>5:25-5:30 Giveaway for a Copy of R for Data Science</li>
+<li>5:30 Meet Hodu!</li>
+</ul>
+<section id="homework-4" class="level3">
+<h3 class="anchored" data-anchor-id="homework-4">Homework 4</h3>
+<p>Homework 4 and Peer Review 3 is due by start of class Tuesday, January 17th at 1:30 PM Eastern Time</p>
+<ul>
+<li>Read the Brown et al reproduction of Onikye et al, run their code, and fill out the worksheet
+<ul>
+<li>https://open.lnu.se/index.php/metapsychology/article/view/2071</li>
+<li>https://osf.io/j32yw/</li>
+</ul></li>
+<li>Peer review for homework 3</li>
+</ul>
+</section>
+<section id="availablerecommended-materials" class="level3">
+<h3 class="anchored" data-anchor-id="availablerecommended-materials">Available/Recommended Materials:</h3>
+<ul>
+<li>Reproducibility:
+<ul>
+<li><em>Draw Me A Project</em> <a href="https://masalmon.eu/2021/06/30/r-projects/" class="uri">https://masalmon.eu/2021/06/30/r-projects/</a></li>
+<li><em>Reproducibility of Scientific Results</em> <a href="https://plato.stanford.edu/entries/scientific-reproducibility/" class="uri">https://plato.stanford.edu/entries/scientific-reproducibility/</a></li>
+<li><em>Best Practices for Scientific Computing</em> <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745" class="uri">https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745</a></li>
+<li><em>Good Enough Practices for Scientific Computing</em> <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510" class="uri">https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510</a></li>
+<li><em>Replicability, Robustness, and Reproducibility in Psychological Science</em> <a href="https://pure.uvt.nl/ws/portalfiles/portal/59415163/MTO_Nuijten_replicability_robustness_and_reproducibility_Annual_Review_of_Psy_2022.pdf" class="uri">https://pure.uvt.nl/ws/portalfiles/portal/59415163/MTO_Nuijten_replicability_robustness_and_reproducibility_Annual_Review_of_Psy_2022.pdf</a></li>
+<li><em>A manifesto for reproducible science</em> <a href="https://www.nature.com/articles/s41562-016-0021" class="uri">https://www.nature.com/articles/s41562-016-0021</a></li>
+</ul></li>
+<li>Regression Modeling:
+<ul>
+<li><em>Introduction to Poisson Regression, Beyond Multiple Linear Regression</em> <a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-poissonreg.html" class="uri">https://bookdown.org/roback/bookdown-BeyondMLR/ch-poissonreg.html</a></li>
+<li><em>Poisson Regression</em> <a href="https://rpubs.com/franzbischoff/poisson_regression" class="uri">https://rpubs.com/franzbischoff/poisson_regression</a></li>
+<li><em>Logistic Regression, Beyond Multiple Linear Regression</em> <a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-logreg.html" class="uri">https://bookdown.org/roback/bookdown-BeyondMLR/ch-logreg.html</a></li>
+</ul></li>
+</ul>
+</section>
+</section>
+<section id="video-recording" class="level2">
+<h2 class="anchored" data-anchor-id="video-recording">Video Recording</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CUxrO5VVvgM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
+</iframe>
+</section>
+<section id="resources" class="level2">
+<h2 class="anchored" data-anchor-id="resources">Resources</h2>
+<p><a href="https://docs.google.com/document/d/1xKPn8J8dOTaVjbjobr5ZJSlG2kVrHy60xUK6op4eMpE/edit?usp=share_link"> link to daily google doc </a> <br> <a href="https://drive.google.com/drive/folders/1UdR07C-MJct5XH6u0EVcI_NEhZabGF4m?usp=share_link"> link to PDF slides</a></p>
+<section id="lecture-1-reproducibility-and-robustness" class="level3">
+<h3 class="anchored" data-anchor-id="lecture-1-reproducibility-and-robustness">Lecture 1: Reproducibility and Robustness</h3>
+<iframe src="https://id529.github.io/lectures/day5/lecture1-reproducibility-and-robustness/reproducibility.html" width="100%" height="500px">
+</iframe>
+<p><a href="https://id529.github.io/lectures/day5/lecture1-reproducibility-and-robustness/reproducibility.html">link to view slides fullscreen</a> <br> <a href="https://drive.google.com/file/d/1x5qKKmHCIaHb2KJvkvioVHSUBUkdrGEy/view?usp=share_link"> link to slide PDFs </a> <br></p>
+</section>
+<section id="lecture-2-regression-part-2" class="level3">
+<h3 class="anchored" data-anchor-id="lecture-2-regression-part-2">Lecture 2: Regression (part 2!)</h3>
+<p><a href="https://drive.google.com/file/d/1F00Sko2LFk3kuPQ3SE2yG9Kmg1Lv0lVC/view?usp=share_link"> link to slide PDFs</a> <br> <a href="https://github.com/jarvischen01/id529-regression-models">link to repository</a> <br></p>
+</section>
+<section id="lecture-3-data-linkage-methods" class="level3">
+<h3 class="anchored" data-anchor-id="lecture-3-data-linkage-methods">Lecture 3: Data linkage methods</h3>
+<iframe src="https://id529.github.io/lectures/day5/lecture3-data-linkage-methods/data-linkage-methods.html" width="100%" height="500px">
+</iframe>
+<p><a href="https://id529.github.io/lectures/day5/lecture3-data-linkage-methods/data-linkage-methods.html">link to view slides fullscreen <br> </a><a href="https://drive.google.com/file/d/1zRK9SjnezNTPJY_32THw8idemghkTuDQ/view?usp=share_link"> link to slide PDFs </a> <br> <a href="https://github.com/ID529/lectures/blob/main/day5/lecture3-data-linkage-methods/nhanes-activity.R">link to follow along code</a> <br></p>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>
