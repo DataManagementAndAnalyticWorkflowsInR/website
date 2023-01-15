@@ -14,6 +14,8 @@ sidebar:
 
 ## Resources
 <a href="https://docs.google.com/document/d/1dJIq1XKMA5IS2QTBWwQfuNSNHZBztLe851qsAKQ-LVM/edit?usp=share_link"> link to daily google doc </a>
+<br>
+<a href="https://drive.google.com/drive/folders/1Sx3Tm3FezLDxvJwsg9sJl4VTAPz_4gRg?usp=share_link"> link to PDF slides</a>
 
 ### Lecture 1: Diverse Data Sources
 <iframe src="https://id529.github.io/lectures/day4/lecture1-diverse-data-sources/diverse_data_sources.html" width="100%" height="500px"></iframe>

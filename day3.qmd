@@ -14,6 +14,7 @@ sidebar:
 
 ## Resources
 <a href="https://docs.google.com/document/d/1F5rgKfnvoyrj8gsbH-yP5XgTkDm2uUvJLQExhm7UlTA/edit?usp=share_link"> link to daily google doc </a>
+<br>
 <a href="https://drive.google.com/drive/folders/1lTmPCQhHdcXlf0CB8L6TopFvJ6x7kO4b?usp=share_link"> link to PDF slides </a>
 
 
