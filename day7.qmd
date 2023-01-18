@@ -24,3 +24,4 @@ sidebar:
 <br>
 <a href="https://drive.google.com/file/d/1hXNs3z-491eOBDo3H5pvogbax1O8oM1R/view?usp=share_link" > link to slide PDFs </a>
 <br>
+<a href = "https://github.com/ID529/lectures/blob/69d500e7d0ecc02e0b5a1bbceb17c11fd3fa19db/day7/lecture2-missing-data/missing-demo.R" > link to missing-demo.R script </a>
