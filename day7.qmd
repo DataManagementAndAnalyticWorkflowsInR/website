@@ -29,3 +29,6 @@ sidebar:
 ## Lecture 4: Accessible exploratory data analysis
 
 <a href= "https://github.com/ID529/lectures/blob/69d500e7d0ecc02e0b5a1bbceb17c11fd3fa19db/day7/lecture3-accessible-eda/eda.R"> link to eda.R script </a>
+
+## Lecture 5: Clean code and considerate coding 
+<iframe src="https://id529.github.io/lectures/day7/lecture4-clean-code-and-considerate-coding/clean_code.html" width="100%" height="500px"></iframe>
