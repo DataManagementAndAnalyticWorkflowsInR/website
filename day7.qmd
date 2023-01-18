@@ -13,7 +13,7 @@ sidebar:
 <br>
 <a href="https://drive.google.com/drive/folders/1hrSSk28uLum6r6LsXOhSB7z0TEUQrypR?usp=share_link"> link to PDF slides</a>
 
-## Lecture 2: Exploratory data analysis
+## Lecture 2: Exploratory data analysis -- Longitudinal data analysis
 <a href="https://github.com/ID529/lectures/blob/69d500e7d0ecc02e0b5a1bbceb17c11fd3fa19db/day7/lecture2-longitudinal-data-analysis/longitudinal_eda.R"> link to longitudinal_eda.R script <a>
 <br>
 <a href="https://github.com/ID529/lectures/blob/69d500e7d0ecc02e0b5a1bbceb17c11fd3fa19db/day7/lecture2-longitudinal-data-analysis/make_simulated_data.R"> link to make_simulated_data.R script </a>
@@ -25,3 +25,7 @@ sidebar:
 <a href="https://drive.google.com/file/d/1hXNs3z-491eOBDo3H5pvogbax1O8oM1R/view?usp=share_link" > link to slide PDFs </a>
 <br>
 <a href = "https://github.com/ID529/lectures/blob/69d500e7d0ecc02e0b5a1bbceb17c11fd3fa19db/day7/lecture2-missing-data/missing-demo.R" > link to missing-demo.R script </a>
+
+## Lecture 4: Accessible exploratory data analysis
+
+<a href= "https://github.com/ID529/lectures/blob/69d500e7d0ecc02e0b5a1bbceb17c11fd3fa19db/day7/lecture3-accessible-eda/eda.R"> link to eda.R script </a>
