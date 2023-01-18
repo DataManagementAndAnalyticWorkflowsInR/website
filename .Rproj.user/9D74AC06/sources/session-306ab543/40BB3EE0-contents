@@ -1,0 +1,31 @@
+---
+title: "Day 7 — Wednesday, January 18th, 2022"
+sidebar:
+  style: "floating"
+  search: true
+  contents: auto
+---
+
+{{< include ../lectures/day7/readme-day7.md >}}
+
+## Resources
+<a href="https://docs.google.com/document/d/1o8D9B5oy0xmaiFj6EM9oy75ijuN5LZHQQDVI_AxRtxo/edit?usp=sharing_eil_se_dm&ts=63c83998"> link to daily google doc </a>
+<br>
+<a href="https://drive.google.com/drive/folders/1hrSSk28uLum6r6LsXOhSB7z0TEUQrypR?usp=share_link"> link to PDF slides</a>
+
+## Lecture 2: Exploratory data analysis -- Longitudinal data analysis
+<a href="https://github.com/ID529/lectures/blob/69d500e7d0ecc02e0b5a1bbceb17c11fd3fa19db/day7/lecture2-longitudinal-data-analysis/longitudinal_eda.R"> link to longitudinal_eda.R script <a>
+<br>
+<a href="https://github.com/ID529/lectures/blob/69d500e7d0ecc02e0b5a1bbceb17c11fd3fa19db/day7/lecture2-longitudinal-data-analysis/make_simulated_data.R"> link to make_simulated_data.R script </a>
+
+## Lecture 3: Missing data
+<iframe src="https://id529.github.io/lectures/day7/lecture2-missing-data/missing-data.html" width="100%" height="500px"></iframe>
+<a href="https://id529.github.io/lectures/day7/lecture2-missing-data/missing-data.html" >link to view slides fullscreen</a>
+<br>
+<a href="https://drive.google.com/file/d/1hXNs3z-491eOBDo3H5pvogbax1O8oM1R/view?usp=share_link" > link to slide PDFs </a>
+<br>
+<a href = "https://github.com/ID529/lectures/blob/69d500e7d0ecc02e0b5a1bbceb17c11fd3fa19db/day7/lecture2-missing-data/missing-demo.R" > link to missing-demo.R script </a>
+
+## Lecture 4: Accessible exploratory data analysis
+
+<a href= "https://github.com/ID529/lectures/blob/69d500e7d0ecc02e0b5a1bbceb17c11fd3fa19db/day7/lecture3-accessible-eda/eda.R"> link to eda.R script </a>

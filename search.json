@@ -14,11 +14,11 @@
     "text": "Resources\n link to daily google doc    link to PDF slides"
   },
   {
-    "objectID": "day7.html#lecture-2-exploratory-data-analysis",
-    "href": "day7.html#lecture-2-exploratory-data-analysis",
+    "objectID": "day7.html#lecture-2-exploratory-data-analysis-longitudinal-data-analysis",
+    "href": "day7.html#lecture-2-exploratory-data-analysis-longitudinal-data-analysis",
     "title": "Day 7 — Wednesday, January 18th, 2022",
-    "section": "Lecture 2: Exploratory data analysis",
-    "text": "Lecture 2: Exploratory data analysis\n link to longitudinal_eda.R script    link to make_simulated_data.R script"
+    "section": "Lecture 2: Exploratory data analysis – Longitudinal data analysis",
+    "text": "Lecture 2: Exploratory data analysis – Longitudinal data analysis\n link to longitudinal_eda.R script    link to make_simulated_data.R script"
   },
   {
     "objectID": "day7.html#lecture-3-missing-data",
@@ -26,6 +26,13 @@
     "title": "Day 7 — Wednesday, January 18th, 2022",
     "section": "Lecture 3: Missing data",
     "text": "Lecture 3: Missing data\n\n\nlink to view slides fullscreen   link to slide PDFs    link to missing-demo.R script"
+  },
+  {
+    "objectID": "day7.html#lecture-4-accessible-exploratory-data-analysis",
+    "href": "day7.html#lecture-4-accessible-exploratory-data-analysis",
+    "title": "Day 7 — Wednesday, January 18th, 2022",
+    "section": "Lecture 4: Accessible exploratory data analysis",
+    "text": "Lecture 4: Accessible exploratory data analysis\n link to eda.R script"
   },
   {
     "objectID": "day8.html",
