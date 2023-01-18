@@ -7,6 +7,20 @@
     "text": "1:30-2:00 Lecture: A Data Analysis from Start to Finish\n2:00-2:30 Lecture: Longitudinal Data Analysis\n2:30-3:00 Lecture: Best practices for reporting on missing data\n3:00-3:30 Lecture: Intro to accessible exploratory data analysis methods: Correlation, principal components analysis, variable importance\n3:30-3:40 Break\n3:40-4:00 Discussion: What are the ethical principles involved in data analysis? What are the risks involved?\n4:00-4:30 Lecture: Clean Code and Considerate Coding\n4:30-5:30 Free time to work together on the final project, chat with classmates, peruse recommended materials\n\n\n\n\nPeer Review Homework 5\n\n\n\n\n\nHarms and Ethics in Data Science and Machine Learning:\n\nThe Data Science Ethics chapter from the Modern Data Science with R book: https://mdsr-book.github.io/mdsr2e/ch-ethics.html"
   },
   {
+    "objectID": "day7.html#resources",
+    "href": "day7.html#resources",
+    "title": "Day 7 — Wednesday, January 18th, 2022",
+    "section": "Resources",
+    "text": "Resources\n link to daily google doc    link to PDF slides"
+  },
+  {
+    "objectID": "day7.html#lecture-2-missing-data",
+    "href": "day7.html#lecture-2-missing-data",
+    "title": "Day 7 — Wednesday, January 18th, 2022",
+    "section": "Lecture 2: Missing data",
+    "text": "Lecture 2: Missing data\n\n\nlink to view slides fullscreen   link to slide PDFs"
+  },
+  {
     "objectID": "day8.html",
     "href": "day8.html",
     "title": "Day 8 — Thursday, January 19th, 2022",
@@ -88,7 +102,7 @@
     "href": "day6.html#resources",
     "title": "Day 6 — Tuesday, January 17th, 2022",
     "section": "Resources",
-    "text": "Resources\n link to daily google doc    link to PDF slides\n\nLecture 1: Packages\n\n\nlink to view slides fullscreen   link to slide PDFs  \n\n\nLecture 2: RMarkdown\n\n\nlink to view slides fullscreen   link to slide PDFs  \n\n\nLecture 3: Debugging\n\n\nlink to view slides fullscreen   link to slide PDFs"
+    "text": "Resources\n link to daily google doc    link to PDF slides\n\nLecture 1: Packages\n\n\nlink to view slides fullscreen   link to slide PDFs  \n\n\nLecture 2: RMarkdown\n\n\nlink to view slides fullscreen   link to slide PDFs  \n\n\nLecture 3: Debugging\n\n\nlink to view slides fullscreen \n link to slide PDFs  \n link to live coding example reproducing a map of literacy rates in India from Wikipedia"
   },
   {
     "objectID": "day2.html",
