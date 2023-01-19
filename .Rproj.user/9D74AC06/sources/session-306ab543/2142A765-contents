@@ -1,0 +1,60 @@
+---
+title: "ID529: Data Management and Analytic Workflows in R"
+format: html
+---
+
+## Welcome to ID529 Data Management and Analytic Workflows in R
+
+Details:
+
+<ul>
+<li> Find the course on [my.harvard.edu](https://courses.my.harvard.edu/psp/courses/EMPLOYEE/EMPL/h/?tab=HU_CLASS_SEARCH&SearchReqJSON=%7B%22PageNumber%22%3A1%2C%22PageSize%22%3A%22%22%2C%22SortOrder%22%3A%5B%22SCORE%22%5D%2C%22Facets%22%3A%5B%5D%2C%22Category%22%3A%22HU_SCL_SCHEDULED_BRACKETED_COURSES%22%2C%22SearchPropertiesInResults%22%3Atrue%2C%22FacetsInResults%22%3Atrue%2C%22SaveRecent%22%3Afalse%2C%22TopN%22%3A%22%22%2C%22ExcludeBracketed%22%3Atrue%2C%22SearchText%22%3A%22ID529%22%2C%22DeepLink%22%3Afalse%7D) </li>
+<li> Course Hours: 1:30-5:30 PM </li>
+<li> Course Dates: Monday January 9th - Friday January 13th, Tuesday January 17th - Friday January 20th, 2023 </li>
+<li> Office Hours: 11:30 AM – 12:30 PM on Wednesday January 11th, Tuesday January 17th, Thursday January 19th </li>
+<li>Limit 60 students, priority for Population Health Science (PHS) students</li>
+</ul>
+
+### Course Description 
+
+<div class="alert alert-secondary">
+*Data Management and Analytic Workflows in R* will introduce students to R
+programming and modern data management and analysis workflows applied to
+examples from population health science. Throughout, we will emphasize
+reproducibility, open science, data visualization, and dynamic document
+generation. Specific skills learned will include the use of the RStudio
+integrated development environment, tidy data management practices/workflows,
+how to get help in programming, and how to use GitHub to track changes in code,
+disseminate professional work, and integrate feedback. Coursework will consist
+of lectures, in-class group work, homework, peer assessment, and time for
+discussion. This course complements graduate-level courses in statistics and
+quantitative research methods by helping students develop practical skills for
+conducting independent research incorporating modern data science principles.
+Students completing this course will have a solid foundation enabling them to
+handle complex data management tasks and data communication skills for research
+and professional work.
+</div>
+
+### Instructional Team 
+
+  * <b>Christian Testa</b><br>
+    Statistical Data Analyst<br>
+    Department of Social and Behavioral Sciences<br>
+    <ctesta@hsph.harvard.edu><br>
+    <https://scholar.harvard.edu/ctesta>
+  * <b>Dean Marengi</b><br>
+    2nd year PhD Student<br>
+    Department of Environmental Health<br>
+    <dean_marengi@g.harvard.edu>
+  * <b>Amanda Hernandez</b><br>
+    2nd year Masters Student<br>
+    Department of Environmental Health<br>
+    <amandahernandez@hsph.harvard.edu>
+    <https://github.com/amandabhernandez>
+  * <b>Jarvis Chen</b><br>
+    Lecturer<br>
+    Department of Social and Behavioral Sciences<br>
+    <jarvis@hsph.harvard.edu>
+    <https://www.hsph.harvard.edu/profile/jarvischen/>
+
+<iframe>

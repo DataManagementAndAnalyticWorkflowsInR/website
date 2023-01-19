@@ -1,0 +1,44 @@
+---
+title: "Day 6 — Tuesday, January 17th, 2022"
+sidebar:
+  style: "floating"
+  search: true
+  contents: auto
+---
+
+{{< include ../lectures/day6/readme-day6.md >}}
+
+## Video Recording
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OKx2f8qrXmI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Resources
+<a href="https://docs.google.com/document/d/1J2N0UoZrYPOy5UwSLNZ5bLibdefPgw9NqhnBor8tk7g/edit?usp=share_link"> link to daily google doc </a>
+<br>
+<a href="https://drive.google.com/drive/folders/186K4cgmkrUNuOfN3di3dbABwRNCi1UZL?usp=sharing"> link to PDF slides</a>
+
+
+### Lecture 1: Packages
+<iframe src="https://id529.github.io/lectures/day6/lecture1-packages/packages.html" width="100%" height="500px"></iframe>
+<a href="https://id529.github.io/lectures/day6/lecture1-packages/packages.html" >link to view slides fullscreen</a>
+<br>
+<a href="https://drive.google.com/file/d/1P7qmW4QSDXZ8LJxZOgpldJHs4MRTiCzC/view?usp=share_link" > link to slide PDFs </a>
+<br>
+
+### Lecture 2: RMarkdown
+
+<iframe src="https://id529.github.io/lectures/day6/lecture2-rmarkdown/intro-to-rmarkdown.html" width="100%" height="500px"></iframe>
+<a href="https://id529.github.io/lectures/day6/lecture2-rmarkdown/intro-to-rmarkdown.html" >link to view slides fullscreen</a>
+<br>
+<a href="https://drive.google.com/file/d/1nOq-y1We0bKaFvFiLCgE_N4AjR2vyk7u/view?usp=share_link" > link to slide PDFs </a>
+<br>
+
+### Lecture 3: Debugging
+<iframe src="https://id529.github.io/lectures/day6/lecture3-debugging/debugging.html" width="100%" height="500px"></iframe>
+<a href="https://id529.github.io/lectures/day6/lecture3-debugging/debugging.html" >link to view slides fullscreen</a>
+<br>
+
+<a href="https://drive.google.com/file/d/1xsTx775VVd3HsfiZo08IT9nyIkPRjOol/view?usp=share_link"> link to slide PDFs </a>
+<br>
+
+<a href="https://gist.github.com/ctesta01/9d5fff579af66aa044c8789e7adffb6a"> link to live coding example reproducing a map of literacy rates in India from Wikipedia </a>
+<br>
