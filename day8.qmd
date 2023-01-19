@@ -13,10 +13,27 @@ sidebar:
 
 <br>
 <a href="https://drive.google.com/drive/folders/1nagsDlsJAMYJJbqgolw9jxzgifME_7we?usp=share_link"> link to PDF slides</a>
-
+<br>
+<a href="https://docs.google.com/document/d/1Jlyhf-iJVroIPl-YcwGDDjkbHMmiJNLmxo1w_kb8LhE/edit#"> link to daily google doc </a>
+<br>
 
 ### Lecture 1: Principles for data analysis
 <iframe src="https://id529.github.io/lectures/day8/lecture1-principles-for-data-analysis/principles.html" width="100%" height="500px"></iframe>
 <a href="https://id529.github.io/lectures/day8/lecture1-principles-for-data-analysis/principles.html"> link to view slides fullscreen </a>
 <br>
 <a href="https://drive.google.com/file/d/1UTPf78R_x2yoLq5NvDHPSEGIOn9MDf7P/view?usp=share_link"> link to PDF slides </a> 
+
+### Lecture 2: Functional Programming
+
+<a href="https://github.com/ID529/lectures/blob/abffdc14d085305f1710f73741a0d0f58c926f51/day8/lecture2-functional-programming/functional_programming.R"> link to functional_programming.R script </a>
+
+### Lecture 3: dplyr (student choice)
+
+<a href="https://github.com/ID529/lectures/blob/abffdc14d085305f1710f73741a0d0f58c926f51/day8/lecture3-students-choice/dplyr_demo.R"> dplyr_demo.R script </a>
+
+### Lecture 4: Growing as a programmer
+<!-- <iframe src="https://id529.github.io/lectures/day8/lecture4-growing-as-a-programmer/growing.html" width="100%" height="500px"></iframe>
+<a href="https://id529.github.io/lectures/day8/lecture4-growing-as-a-programmer/growing.html"> link to view slides fullscreen </a>
+<br> -->
+<a href="https://drive.google.com/file/d/17k1mQ-iY_CUsBMknJzxs7j38ycacmowS/view?usp=share_link">link to PDF slides</a>
+
