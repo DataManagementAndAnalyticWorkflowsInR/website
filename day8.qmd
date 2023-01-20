@@ -32,8 +32,8 @@ sidebar:
 <a href="https://github.com/ID529/lectures/blob/abffdc14d085305f1710f73741a0d0f58c926f51/day8/lecture3-students-choice/dplyr_demo.R"> dplyr_demo.R script </a>
 
 ### Lecture 4: Growing as a programmer
-<!-- <iframe src="https://id529.github.io/lectures/day8/lecture4-growing-as-a-programmer/growing.html" width="100%" height="500px"></iframe>
+<iframe src="https://id529.github.io/lectures/day8/lecture4-growing-as-a-programmer/growing.html" width="100%" height="500px"></iframe>
 <a href="https://id529.github.io/lectures/day8/lecture4-growing-as-a-programmer/growing.html"> link to view slides fullscreen </a>
-<br> -->
+<br> 
 <a href="https://drive.google.com/file/d/17k1mQ-iY_CUsBMknJzxs7j38ycacmowS/view?usp=share_link">link to PDF slides</a>
 
