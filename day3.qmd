@@ -10,7 +10,7 @@ sidebar:
 
 ## Video Recording
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g5s2jibMhAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/g5s2jibMhAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Resources
 <a href="https://docs.google.com/document/d/1F5rgKfnvoyrj8gsbH-yP5XgTkDm2uUvJLQExhm7UlTA/edit?usp=share_link"> link to daily google doc </a>

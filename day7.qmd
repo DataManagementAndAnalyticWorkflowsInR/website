@@ -8,7 +8,11 @@ sidebar:
 
 {{< include ../lectures/day7/readme-day7.md >}}
 
+## Video Recording
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/64LwElkfOuU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Resources
+
 <a href="https://docs.google.com/document/d/1o8D9B5oy0xmaiFj6EM9oy75ijuN5LZHQQDVI_AxRtxo/edit?usp=sharing_eil_se_dm&ts=63c83998"> link to daily google doc </a>
 <br>
 <a href="https://drive.google.com/drive/folders/1hrSSk28uLum6r6LsXOhSB7z0TEUQrypR?usp=share_link"> link to PDF slides</a>
