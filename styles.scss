@@ -33,3 +33,16 @@ th, td {
   background-color: #dff0d8;
   color: #333;
 }
+
+.bs-callout-warning {
+	border-left-color: #aa6708;
+}
+
+.bs-callout {
+	padding: 20px;
+	margin: 20px 0;
+	border: 1px solid #eee;
+	border-left-width: 5px;
+  border-left-color: $crimson;
+	border-radius: 3px;
+}
