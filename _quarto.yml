@@ -15,24 +15,45 @@ website:
       - text: Curriculum
         icon: mortarboard
         menu:
-        - text: Day 1 — Monday January 9, 2022
+        - text: Day 1 — Monday January 8, 2024
           href: day1.qmd
-        - text: Day 2 — Tuesday January 10, 2022
+        - text: Day 2 — Tuesday January 9, 2024
           href: day2.qmd
-        - text: Day 3 — Wednesday January 11, 2022
+        - text: Day 3 — Wednesday January 10, 2024
           href: day3.qmd
-        - text: Day 4 — Thursday January 12, 2022
+        - text: Day 4 — Thursday January 11, 2024
           href: day4.qmd
-        - text: Day 5 — Friday January 13, 2022
+        - text: Day 5 — Friday January 12, 2024
           href: day5.qmd
-        - text: Day 6 — Tuesday January 17, 2022
+        - text: Day 6 — Tuesday January 16, 2024
           href: day6.qmd
-        - text: Day 7 — Wednesday January 18, 2022
+        - text: Day 7 — Wednesday January 17, 2024
           href: day7.qmd
-        - text: Day 8 — Thursday January 19, 2022
+        - text: Day 8 — Thursday January 18, 2024
           href: day8.qmd
-        - text: Day 9 — Friday January 20, 2022
+        - text: Day 9 — Friday January 19, 2024
           href: day9.qmd
+      - text: Last Years' Content
+        icon: mortarboard
+        menu:
+        - text: Day 1 — Monday January 9, 2023 
+          href: wi23/day1.qmd
+        - text: Day 2 — Tuesday January 10, 2023 
+          href: wi23/day2.qmd
+        - text: Day 3 — Wednesday January 11, 2023 
+          href: wi23/day3.qmd 
+        - text: Day 4 — Thursday January 12, 2023
+          href: wi23/day4.qmd
+        - text: Day 5 — Friday January 13, 2023
+          href: wi23/day5.qmd
+        - text: Day 6 — Tuesday January 17, 2023
+          href: wi23/day6.qmd
+        - text: Day 7 — Wednesday January 18, 2023
+          href: wi23/day7.qmd
+        - text: Day 8 — Thursday January 19, 2023
+          href: wi23/day8.qmd
+        - text: Day 9 — Friday January 20, 2023
+          href: wi23/day9.qmd
 
 format:
   html:

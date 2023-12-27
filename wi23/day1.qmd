@@ -1,56 +1,77 @@
 ---
-title: "Day 1"
+title: "Day 1 — Monday, January 9th, 2022"
 format: html
 ---
 
-<!-- {{< include ../lectures/day1/readme-day1.md >}} -->
+## Monday January 9th
 
-Outline of Topics 
+   * 1:30-1:40 Welcome to ID529
+   * 1:40-2:10 Introductory Lecture: Course Details
+   * 2:10-2:40 Live Demonstration: Modern Data Science Practices in an R Project Based Workflow
+   * 2:40-2:55 Activity: Q&A + Group reflection on principles shown in the demonstration
+   * 2:55-3:10 Lecture: Introduce the Final Presentations Format
+   * 3:10-3:15 Break 
+   * 3:15-3:50: Intro to RStudio and R
+   * 3:50-4:05: Discussion and Self-Introductions
+   * 4:05-4:45: Lecture: Intro to Git and GitHub
+   * 4:45-5:00: Demo of how to do the homework
+   * 5:00-5:05: Positive Affirmations
+   * 5:05-5:30 Activity: Setup GitHub accounts + work
+   on the homework + peruse recommended materials + chat with classmates
+ 
+### Recommended materials: 
 
-  * Welcome
-  * Intro to the Course
-  * Demo
-  * RStudio and R, Git and GitHub 
+  * Articles: 
+     - The *Introduction* Chapter to R for Data Science: <https://r4ds.had.co.nz/explore-intro.html> (just one page)
+     - *Excuse me, do you have a moment to talk about version control?* by Jennifer Bryan: <https://peerj.com/preprints/3159/>
+     - Tutorial: Getting Started with R and RStudio: <https://www.dataquest.io/blog/tutorial-getting-started-with-r-and-rstudio/>
+     - Quickstart from GitHub: <https://docs.github.com/en/get-started/quickstart/hello-world>
+     
+   * Videos:
+      -  RStudio for the Total Beginner, HRAnalytics101: <https://www.youtube.com/watch?v=FIrsOBy5k58> 
+      - If you haven't already installed R and RStudio, you'll want to do that, 
+      and you can do that by following the instructions here: 
+         - Install R: <https://vimeo.com/203516510>
+         - Install RStudio: <https://vimeo.com/203516968>
+  
+### Homework: 
 
-## Slides
+  - Write a bio for yourself and include a picture!
+  - Complete the intro to course survey
+  - Check that your R and RStudio installations are working on your computer
+  
+## Video Recording
 
-::: {.callout-tip collapse="true"}
-### View Slides for Intro to ID529 
-<iframe src="https://id529.github.io/lectures/day1/lecture1-intro/lecture1.html#/title-slide" width="100%" height="500px"></iframe>
-:::
-[view slides fullscreen](https://id529.github.io/lectures/day1/lecture1-intro/lecture1.html#/title-slide)
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/yxvROGxWys0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Resources
+<a href="https://docs.google.com/document/d/15sJZKnzQVPbYpYMFf68zI1Z_ihuVmxWcE3I43OlJ02s/edit?usp=share_link"> link to daily google doc </a>
 <br>
-[link to pdf slides](https://drive.google.com/file/d/1OPDOCs8pLop5dPpOb-vAZSC6SWOPyXN-/view?usp=share_link">link to pdf slides)
+<a href="https://drive.google.com/drive/folders/1_-16Q5SualJL62G17MdSso-6ai3ksLHe?usp=share_link"> link to slide pdfs</a>
 
+<iframe src="https://id529.github.io/lectures/day1/lecture1-intro/lecture1.html#/title-slide" width="100%" height="500px"></iframe>
+<a href="https://id529.github.io/lectures/day1/lecture1-intro/lecture1.html#/title-slide" >link to view slides fullscreen</a>
+<br>
+<a href="https://drive.google.com/file/d/1OPDOCs8pLop5dPpOb-vAZSC6SWOPyXN-/view?usp=share_link">link to pdf slides</a>
 
-::: {.callout-tip collapse="true"}
-### Slides for Final Presentation Format
 <iframe src="https://id529.github.io/lectures/day1/lecture2-final-presentation-format/final_presentation_format.html#/title-slide" width="100%" height="500px"></iframe>
-:::
 <a href="https://id529.github.io/lectures/day1/lecture2-final-presentation-format/final_presentation_format.html#/title-slide">link to view slides fullscreen</a>
 <br>
 <a href="https://drive.google.com/file/d/1pFjrgODaHoDp28q2AbIz5C8gFj9OTE_9/view?usp=share_link">link to pdf slides</a>
 
 
-::: {.callout-tip collapse="true"}
-### View Slides for Intro to RStudio and R
 <iframe src="https://id529.github.io/lectures/day1/lecture3-intro-to-rstudio-and-r/rstudio-and-r.html" width="100%" height="500px"></iframe>
-:::
 <a href="https://id529.github.io/lectures/day1/lecture3-intro-to-rstudio-and-r/rstudio-and-r.html">link to view slides fullscreen</a>
 <br>
 <a href="https://drive.google.com/file/d/1yZh6MUvCDkFhN_uQHb5iRTD292nDBxs2/view?usp=share_link">link to pdf slides</a>
 
 
-::: {.callout-tip collapse="true"}
-### View Slides for Git and GitHub
 <iframe src="https://id529.github.io/lectures/day1/lecture4-intro-to-git-and-github/git-and-github.html" width="100%" height="500px"></iframe>
-:::
 <a href="https://id529.github.io/lectures/day1/lecture4-intro-to-git-and-github/git-and-github.html">link to view slides fullscreen</a>
 <br>
 <a href="https://drive.google.com/file/d/1yZh6MUvCDkFhN_uQHb5iRTD292nDBxs2/view?usp=share_link"> link to pdf slides </a>
 
-
-## Positive Affirmations 
+### Positive Affirmations 
 
 <img src="https://github.com/ID529/lectures/blob/main/affirmations/affirmations.jpg?raw=true" width='100%' alt="Here are some affirmations that can help you to reframe your thoughts and let go of any negative self-doubt or imposter syndrome that you may be feeling. 
 
@@ -79,9 +100,3 @@ Here are some affirmations that can help you to reframe your thoughts and let go
 It's important to remember that everyone experiences moments of self-doubt and uncertainty, and it's okay to not feel confident all the time.
 
 The key is to recognize and acknowledge those feelings, and then remind ourselves of our strengths and capabilities.
-
-::: {.callout-tip collapse="true"}
-## Video Recording from Last Year
-
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/yxvROGxWys0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-:::

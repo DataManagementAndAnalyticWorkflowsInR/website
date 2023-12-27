@@ -1,0 +1,97 @@
+---
+title: "Day 4 — Thursday, January 12th, 2022"
+sidebar:
+  style: "floating"
+  search: true
+  contents: auto
+---
+
+## Thursday January 12th
+  
+  * 1:30-2:00 Lecture: Diverse Data Sources (APIs [tidycensus, WHO, World Bank, qualtRics], scraping web data, tabulizer, tesseract, datapasta)
+  * 2:00-2:20 Discussion: What kind of sources are students interested in using in their research or future work?
+  * 2:20-2:50 Lecture: How to handle factors and date-times
+  * 2:50-3:00 Break 
+  * 3:00-3:30 Lecture: Working with Regression Model Objects: constructing and analyzing them
+  * 3:30-4:15 Activity: Working with Regression Models in R
+  * 4:15-4:45 Lecture: Creating maps in R
+  * 4:45-5:00 Lecture: Reproducible Examples for Getting Help
+  * 5:00-5:30 Time to work on final presentation materials together, peruse recommended materials, chat with classmates
+
+### Homework:
+
+  * Fit and report on a regression model including categorical (factor) variables
+  * Peer Review for Homework 2
+
+### Recommended Materials
+
+**Remember! You don't have to read all of this! Just focus on what's most useful to you**:
+
+  * Tidy Data by Hadley Wickham <https://vita.had.co.nz/papers/tidy-data.pdf>
+  * Diverse Data Sources
+    * The readme to the datapasta package: <https://github.com/MilesMcBain/datapasta>
+    * *Analyzing US Census Data by Kyle Walker*, Chapter 2: An introduction to tidycensus: <https://walker-data.com/census-r/an-introduction-to-tidycensus.html>
+    * The `readr` cheatsheet: <https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-import.pdf>
+    * *Working with Qualtrics Data - Part 1: Importing Data, ROpenSci* <https://ropensci.org/blog/2022/08/02/working-with-qualtrics-data-importing/>
+  * Handling factors and date-times in R: 
+    * *Chapter 15: Factors, R for Data Science by Hadley Wickham and Garrett Grolemund* <https://r4ds.had.co.nz/factors.html>
+    * *Chapter 16: Dates and Times, R for Data Science by Hadley Wickham and Garrett Grolemund* <https://r4ds.had.co.nz/dates-and-times.html>
+    * *Forcats cheatsheet* <https://raw.githubusercontent.com/rstudio/cheatsheets/main/factors.pdf>
+    * *Lubridate cheatsheet* <https://raw.githubusercontent.com/rstudio/cheatsheets/main/lubridate.pdf>
+  * Working with Regression Models: 
+    * *Introduction to `broom`* <https://broom.tidymodels.org/articles/broom.html>
+    * A nice introduction to linear model diagnostics plots: <https://book.stat420.org/model-diagnostics.html>
+    * *Interpretation of R's lm() output*: <https://stats.stackexchange.com/questions/5135/interpretation-of-rs-lm-output>
+  * Mapping:
+    * *Chapter 8 Plotting Spatial Data, Spatial Data Science* <https://r-spatial.org/book/08-Plotting.html>
+      * This focuses more on `sf` which is the most modern and increasingly most popular paradigm 
+      for working with spatial data in R
+    * *Chapter 9 Making Maps with R, Geocomputation with R* <https://geocompr.robinlovelace.net/adv-map.html>
+      * This chapter has a lot of focus on `tmap`, a package for creating thematic maps
+    
+    
+## Video Recording
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/Fuk6k8W2Mho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Resources
+<a href="https://docs.google.com/document/d/1dJIq1XKMA5IS2QTBWwQfuNSNHZBztLe851qsAKQ-LVM/edit?usp=share_link"> link to daily google doc </a>
+<br>
+<a href="https://drive.google.com/drive/folders/1Sx3Tm3FezLDxvJwsg9sJl4VTAPz_4gRg?usp=share_link"> link to PDF slides</a>
+
+### Lecture 1: Diverse Data Sources
+<iframe src="https://id529.github.io/lectures/day4/lecture1-diverse-data-sources/diverse_data_sources.html" width="100%" height="500px"></iframe>
+<a href="https://id529.github.io/lectures/day4/lecture1-diverse-data-sources/diverse_data_sources.html" >link to view slides fullscreen</a>
+<br>
+<a href="https://drive.google.com/file/d/1fIu0RB8hZUan16EWcVZsKHQwum-AT-b8/view?usp=share_link" > link to slide PDFs </a>
+<br>
+
+### Lecture 2: Factors and Date-times
+<iframe src="https://id529.github.io/lectures/day4/lecture2-factors-and-datetimes/fct_datetime.html" width="100%" height="500px"></iframe>
+<a href="https://id529.github.io/lectures/day4/lecture2-factors-and-datetimes/fct_datetime.html" >link to view slides fullscreen</iframe>
+<br>
+<a href="https://id529.github.io/lectures/day4/factor_datetime_code/fct_datetime.R" >link to follow along code</a>
+<br> 
+<a href = "https://drive.google.com/file/d/1ZjORbSc9zDEr26TI9jhu-_llKvQ3SmDu/view?usp=share_link" > link to slide PDFs </a> 
+<br> 
+
+### Lecture 3: Regression
+<a href = "https://id529.github.io/lectures/day4/lecture3-regression/id529_modelingWorkflows.pdf" > link to slide PDFs</a> 
+<br>
+<a href="https://github.com/jarvischen01/id529-regression-models" >link to repository</a></iframe>
+<br> 
+
+### Lecture 4: Creating maps in R 
+<iframe src="https://id529.github.io/lectures/day4/lecture4-mapping/making-maps-in-R.html" width="100%" height="500px"></iframe>
+<a href="https://id529.github.io/lectures/day4/lecture4-mapping/making-maps-in-R.html" >link to view slides fullscreen</a>
+<br> 
+<a href = "https://drive.google.com/file/d/1zy1RwJT1E_oZeBuor1q07rNpUuvRYB4l/view?usp=share_link"> link to slide PDFs </a> 
+<br> 
+
+### Lecture 5: Reproducible examples for getting help in R
+<br>
+<iframe src="https://id529.github.io/lectures/day4/lecture5-reprex/reprex.html" width="100%" height="500px"></iframe>
+<a href="https://id529.github.io/lectures/day4/lecture5-reprex/reprex.html" >link to view slides fullscreen </a>
+<br> 
+<a href = "https://drive.google.com/file/d/1qx0uWyigQs7eWo89fI3CmXJzjMc2dEjK/view?usp=share_link" > link to slide PDFs </a> 
+<br> 
