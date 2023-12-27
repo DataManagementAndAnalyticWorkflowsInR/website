@@ -10,8 +10,9 @@ Details:
 <ul>
 <li> Find the course on [my.harvard.edu](https://courses.my.harvard.edu/psp/courses/EMPLOYEE/EMPL/h/?tab=HU_CLASS_SEARCH&SearchReqJSON=%7B%22PageNumber%22%3A1%2C%22PageSize%22%3A%22%22%2C%22SortOrder%22%3A%5B%22SCORE%22%5D%2C%22Facets%22%3A%5B%5D%2C%22Category%22%3A%22HU_SCL_SCHEDULED_BRACKETED_COURSES%22%2C%22SearchPropertiesInResults%22%3Atrue%2C%22FacetsInResults%22%3Atrue%2C%22SaveRecent%22%3Afalse%2C%22TopN%22%3A%22%22%2C%22ExcludeBracketed%22%3Atrue%2C%22SearchText%22%3A%22ID529%22%2C%22DeepLink%22%3Afalse%7D) </li>
 <li> Course Hours: 1:30-5:30 PM </li>
-<li> Course Dates: Monday January 9th - Friday January 13th, Tuesday January 17th - Friday January 20th, 2023 </li>
-<li> Office Hours: 11:30 AM – 12:30 PM on Wednesday January 11th, Tuesday January 17th, Thursday January 19th </li>
+<li> Classroom: Our main classroom will be Kresge G2, but Friday 1:30-2:30, we'll be in FXB G12. </li>
+<li> Course Dates: Monday January 8th - Friday January 12th, Tuesday January 16th - Friday January 19th, 2023 </li>
+<li> Office Hours: 11:30 AM – 12:30 PM on Wednesday January 10th, Tuesday January 16th, Thursday January 18th </li>
 <li>Limit 60 students, priority for Population Health Science (PHS) students</li>
 </ul>
 
@@ -35,26 +36,111 @@ handle complex data management tasks and data communication skills for research
 and professional work.
 </div>
 
+### Student Testimonials 
+
+Students were very happy with how the class went last winter!  Here are some student testionials, shared with the students' permission: 
+
+::: {.grid}
+:::{.g-col-4}
+<p class="alert alert-info">
+"I really enjoyed the whole learning experience in this course."
+</p>
+:::
+
+:::{.g-col-4}
+<div class="alert alert-info">
+"Very informative and useful. As a someone who has his first exposure to R, I learned a lot."
+</div>
+:::
+
+:::{.g-col-4}
+<div class="alert alert-info">
+"The teaching team were very supportive and very promptly acted on feedback."
+</div>
+:::
+
+:::{.g-col-4}
+<div class="alert alert-info">
+"It was wonderful! Totally friendly to R beginners. And got a lot positive feedback and encouragement from the teaching team! Shout out to their efforts!"
+</div>
+:::
+
+
+:::{.g-col-4}
+<div class="alert alert-info">
+"Slides that are managed so well! Unparellel instructional team! You are so friendly and patient! I really love that homeworks are managed through Github!"
+</div>
+:::
+
+
+:::{.g-col-4}
+<div class="alert alert-info">
+"I loved this class!! So much was covered but it didn't feel overwhelming at the same time because the expectation was that we all came in with different levels of experience with R and that these are resources we are introduced to and can always come back to."
+</div>
+:::
+
+:::{.g-col-4}
+<div class="alert alert-info">
+This course has been excellent! It was exactly what I was looking for - I wanted to kind of catch up to my peers who have had experience in R and learn best practices. R feels a lot less intimidating now, and I know where to look for help. Thank you! 
+</div>
+:::
+
+:::{.g-col-4}
+<div class="alert alert-info">
+I think this course was great. I am happy that all levels of R were welcome in the course. I felt like I could just do beginner level work and still get a good grade. 
+</div>
+:::
+
+:::{.g-col-4}
+<div class="alert alert-info">
+Extremely well. I think it will be the most recommended course for whoever wants to gain skills in data management and analysis
+</div>
+:::
+
+:::
+
+And lots more 🙂
+
 ### Instructional Team 
 
-  * <b>Christian Testa</b><br>
-    Statistical Data Analyst<br>
-    Department of Social and Behavioral Sciences<br>
-    <ctesta@hsph.harvard.edu><br>
-    <https://scholar.harvard.edu/ctesta>
-  * <b>Dean Marengi</b><br>
-    2nd year PhD Student<br>
+:::{.grid}
+:::{.g-col-6}
+<div class="alert alert-success">
+  <b>Christian Testa</b><br>
+    1st Year PhD Student<br>
+    Department of Biostatistics<br>
+    {{< fa envelope >}} <ctesta@hsph.harvard.edu><br>
+    {{< fa brands github >}} [github](https://github.com/ctesta01) <br>
+    {{< fa earth-asia >}} [website](https://ctesta.com) <br>
+    {{< fa brands mastodon >}} [on mastodon](https://fediscience.org/@ctesta)
+</div>
+:::
+:::{.g-col-6}
+  <div class="alert alert-success">
+  <b>Dean Marengi</b><br>
+    3rd year PhD Student<br>
     Department of Environmental Health<br>
-    <dean_marengi@g.harvard.edu>
-  * <b>Amanda Hernandez</b><br>
-    2nd year Masters Student<br>
-    Department of Environmental Health<br>
-    <amandahernandez@hsph.harvard.edu>
-    <https://github.com/amandabhernandez>
-  * <b>Jarvis Chen</b><br>
+    {{< fa envelope >}} <dean_marengi@g.harvard.edu> <br>
+    {{< fa book >}} [Google Scholar](https://scholar.google.com/citations?user=334cCvsAAAAJ&hl=en)
+  </div>
+:::
+:::{.g-col-12}
+  <div class="alert alert-success">
+  <b>Jarvis Chen</b><br>
     Lecturer<br>
     Department of Social and Behavioral Sciences<br>
-    <jarvis@hsph.harvard.edu>
-    <https://www.hsph.harvard.edu/profile/jarvischen/>
+    {{< fa envelope >}} <jarvis@hsph.harvard.edu> <br> 
+    {{< fa earth-asia >}} <https://www.hsph.harvard.edu/profile/jarvischen/> <br> 
+    {{< fa book >}} [Google Scholar](https://scholar.google.com/citations?user=CEhmeoYAAAAJ&hl=en&oi=ao)
+  </div>
+:::
+:::
+    
+### Teaching Alumnae 
+
+  * <b>[Amanda Hernandez](https://github.com/amandabhernandez) </b> was an
+  * amazing masters student in Environmental Health
+  who helped us develop a lot of material and helped teach the course in
+  Winter Session 2023. 
 
 <iframe>
