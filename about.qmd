@@ -5,5 +5,5 @@ format: html
 
 You can find more out about our course in the <a href="assets/ID529 Syllabus.pdf"/>syllabus</a>.
 
-<iframe src="/assets/ID529 Syllabus.pdf" width="100%" height="1020px">
+<object data="/assets/ID529 Syllabus.pdf" width="100%" height="1020px"> </object>
 

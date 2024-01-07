@@ -1,5 +1,5 @@
 ---
-title: "Day 1 — Monday, January 9th, 2022"
+title: "Day 1 — Monday, January 9th, 2023"
 format: html
 ---
 

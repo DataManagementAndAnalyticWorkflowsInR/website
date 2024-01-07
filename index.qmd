@@ -14,7 +14,7 @@ Details:
    - Monday January 8th - Friday January 12th, 
    - Tuesday January 16th - Friday January 19th, 2023 
  * Office Hours: 11:30 AM – 12:30 PM on Wednesday January 10th, Tuesday January 16th, Thursday January 18th 
-Limit 60 students, priority for Population Health Science (PHS) students
+ * Limit 60 students, priority for Population Health Science (PHS) students
 
 ### Course Description 
 
@@ -110,9 +110,10 @@ And lots more 🙂
     1st Year PhD Student<br>
     Department of Biostatistics<br>
     {{< fa envelope >}} <ctesta@hsph.harvard.edu><br>
-    {{< fa brands github >}} [github](https://github.com/ctesta01) <br>
-    {{< fa earth-asia >}} [website](https://ctesta.com) <br>
-    {{< fa brands mastodon >}} [on mastodon](https://fediscience.org/@ctesta)
+    {{< fa brands github >}} [GitHub](https://github.com/ctesta01) <br>
+    {{< fa earth-asia >}} [Website](https://ctesta.com) <br>
+    {{< fa brands mastodon >}} [Mastodon](https://fediscience.org/@ctesta) <br>
+    {{< fa book >}} [Google Scholar](https://scholar.google.com/citations?hl=en&user=_9VD8mkAAAAJ)
 </div>
 :::
 :::{.g-col-6}
@@ -139,7 +140,7 @@ And lots more 🙂
 ### Teaching Alumnus
 
   * <b>[Amanda Hernandez](https://github.com/amandabhernandez) </b> was an
-  * amazing masters student in Environmental Health
+  amazing masters student in Environmental Health
   who helped us develop a lot of material and helped teach the course in
   Winter Session 2023. 
 
@@ -154,15 +155,15 @@ And lots more 🙂
 
 ### Jump into the Curriculum 
 
-- [Day 1 — Monday January 8th, 2023](/day1.html)
-- [Day 2 — Tuesday January 9th, 2023](/day2.html)
-- [Day 3 — Wednesday January 10th, 2023](/day3.html)
-- [Day 4 — Thursday January 11th, 2023](/day4.html)
-- [Day 5 — Friday January 12th, 2023](/day5.html)
+- [Day 1 — Monday January 8th, 2024](/day1.html)
+- [Day 2 — Tuesday January 9th, 2024](/day2.html)
+- [Day 3 — Wednesday January 10th, 2024](/day3.html)
+- [Day 4 — Thursday January 11th, 2024](/day4.html)
+- [Day 5 — Friday January 12th, 2024](/day5.html)
 - (MLK Jr. Day on Monday January 15th)
-- [Day 6 — Tuesday January 16th, 2023](/day6.html)
-- [Day 7 — Wednesday January 17th, 2023](/day7.html)
-- [Day 8 — Thursday January 18th, 2023](/day8.html)
-- [Day 9 — Friday January 19th, 2023](/day9.html)
+- [Day 6 — Tuesday January 16th, 2024](/day6.html)
+- [Day 7 — Wednesday January 17th, 2024](/day7.html)
+- [Day 8 — Thursday January 18th, 2024](/day8.html)
+- [Day 9 — Friday January 19th, 2024](/day9.html)
 
 <iframe>

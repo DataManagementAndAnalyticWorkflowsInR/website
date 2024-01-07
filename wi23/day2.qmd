@@ -1,5 +1,5 @@
 ---
-title: "Day 2 — Tuesday, January 10th, 2022"
+title: "Day 2 — Tuesday, January 10th, 2023"
 sidebar:
   style: "floating"
   search: true
