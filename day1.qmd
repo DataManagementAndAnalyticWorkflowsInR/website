@@ -20,7 +20,7 @@ Outline of Topics
 :::
 [view slides fullscreen](https://id529.github.io/lectures2024/day1/lecture1-intro/lecture1.html)
 <br>
-<!-- [link to pdf slides](https://drive.google.com/file/d/1OPDOCs8pLop5dPpOb-vAZSC6SWOPyXN-/view?usp=share_link">link to pdf slides) --> 
+[link to pdf slides](https://drive.google.com/file/d/1uWlnzrJG7IvHxEkqyXSltq6GgzpLrIbG/view?usp=sharing">link to pdf slides)
 
 
 ::: {.callout-tip collapse="true"}
@@ -29,7 +29,7 @@ Outline of Topics
 :::
 <a href="https://id529.github.io/lectures2024/day1/lecture2-final-project/final_presentation_format.html#/title-slide">link to view slides fullscreen</a>
 <br>
-<!-- <a href="https://drive.google.com/file/d/1pFjrgODaHoDp28q2AbIz5C8gFj9OTE_9/view?usp=share_link">link to pdf slides</a> --> 
+<a href="https://drive.google.com/file/d/1DSH6ttviFiYyJBVTXNpB7qkAVRM8LgMl/view?usp=sharing">link to pdf slides</a>
 
 
 ::: {.callout-tip collapse="true"}
@@ -38,7 +38,7 @@ Outline of Topics
 :::
 <a href="https://id529.github.io/lectures2024/day1/lecture3-intro-to-rstudio-and-r/rstudio-and-r.html">link to view slides fullscreen</a>
 <br>
-<!-- <a href="https://drive.google.com/file/d/1yZh6MUvCDkFhN_uQHb5iRTD292nDBxs2/view?usp=share_link">link to pdf slides</a> --> 
+<a href="https://drive.google.com/file/d/1yoQbQbOBdJ-bKydzWnk1KK9rmChAxh3x/view?usp=sharing">link to pdf slides</a>
 
 
 ::: {.callout-tip collapse="true"}
@@ -47,7 +47,7 @@ Outline of Topics
 :::
 <a href="https://id529.github.io/lectures2024/day1/lecture4-intro-to-git-and-github/git-and-github.html">link to view slides fullscreen</a>
 <br>
-<!-- <a href="https://drive.google.com/file/d/1yZh6MUvCDkFhN_uQHb5iRTD292nDBxs2/view?usp=share_link"> link to pdf slides </a> --> 
+<a href="https://drive.google.com/file/d/1jZmoRmywDA384B0FiUyuOjguf7TpG9-V/view?usp=sharing"> link to pdf slides </a>
 
 
 ## Positive Affirmations 
