@@ -128,7 +128,7 @@ And lots more 🙂
 :::{.g-col-12}
   <div class="alert alert-success">
   <b>Jarvis Chen</b><br>
-    Lecturer<br>
+    Senior Lecturer<br>
     Department of Social and Behavioral Sciences<br>
     {{< fa envelope >}} <jarvis@hsph.harvard.edu> <br> 
     {{< fa earth-asia >}} <https://www.hsph.harvard.edu/profile/jarvischen/> <br> 
@@ -156,14 +156,14 @@ And lots more 🙂
 ### Jump into the Curriculum 
 
 - [Day 1 — Monday January 8th, 2024](/day1.html)
-- [Day 2 — Tuesday January 9th, 2024](/day2.html)
-- [Day 3 — Wednesday January 10th, 2024](/day3.html)
-- [Day 4 — Thursday January 11th, 2024](/day4.html)
-- [Day 5 — Friday January 12th, 2024](/day5.html)
-- (MLK Jr. Day on Monday January 15th)
-- [Day 6 — Tuesday January 16th, 2024](/day6.html)
-- [Day 7 — Wednesday January 17th, 2024](/day7.html)
-- [Day 8 — Thursday January 18th, 2024](/day8.html)
-- [Day 9 — Friday January 19th, 2024](/day9.html)
+<!-- - [Day 2 — Tuesday January 9th, 2024](/day2.html) --> 
+<!-- - [Day 3 — Wednesday January 10th, 2024](/day3.html) --> 
+<!-- - [Day 4 — Thursday January 11th, 2024](/day4.html) --> 
+<!-- - [Day 5 — Friday January 12th, 2024](/day5.html) --> 
+<!-- - (MLK Jr. Day on Monday January 15th) --> 
+<!-- - [Day 6 — Tuesday January 16th, 2024](/day6.html) --> 
+<!-- - [Day 7 — Wednesday January 17th, 2024](/day7.html) --> 
+<!-- - [Day 8 — Thursday January 18th, 2024](/day8.html) --> 
+<!-- - [Day 9 — Friday January 19th, 2024](/day9.html) --> 
 
 <iframe>
