@@ -15,8 +15,10 @@ website:
       - text: Curriculum
         icon: mortarboard
         menu:
-        - text: Day 1 — Monday January 8, 2024
+        - text: Day 1
           href: day1.qmd
+        - text: Day 2
+          href: day2.qmd
         # - text: Day 2 — Tuesday January 9, 2024
         #   href: day2.qmd
         # - text: Day 3 — Wednesday January 10, 2024

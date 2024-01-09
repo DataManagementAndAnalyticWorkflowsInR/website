@@ -177,9 +177,9 @@
   {
     "objectID": "day2.html",
     "href": "day2.html",
-    "title": "Day 2 — Tuesday, January 10th, 2022",
+    "title": "Day 2",
     "section": "",
-    "text": "1:30-2:00 Lecture: Intro to R Programming (including conditionals, control flow, etc.)\n2:00-2:15 Activity: learnr Tutorial on Conditionals and Control Flow\n2:15-2:45 Lecture: Data Dictionaries and Documentation\n2:45-3:00 Activity: Q&A + Discussion\n3:00-3:05 Break\n3:05-3:35 Lecture: Reading in data of various formats\n3:35-4:30 Lecture: Intro to ggplot2 (common types of figures, faceting, legends, patchwork, and saving figures)\n4:30-4:50 Discussion: What are the ingredients to a ggplot? What makes an effective data visualization?\n4:50-5:10 Demonstration of how to do the homework\n5:10-5:30 Time to work on homework, chat with classmates, peruse recommended materials, engage in self-affirmation\n\n\n\n\nRead in a dataset of your choice [we will give you some example datasets you can use] and create a few figures using ggplot2. We want to see students include titles, subtitles, captions, data sources, legends, etc.\n\nThe figures should include one univariate figure, one bivariate figure, and one figure using facet_wrap or facet_grid\nIf you’re feeling extra, have fun stylizing your plots! Go wild! Try to change up the background, fonts, etc.\n\n\n\n\n\n\nOur learnr tutorial on Conditionals, Control Flow, and Logic in R\nSmithsonian Data Management and Best Practices — Describing Your Data: Data Dictionaries\n\nhttps://library.si.edu/sites/default/files/tutorial/pdf/datadictionaries20180226.pdf\n\nU.S. Geological Survey, Data Dictionaries\n\nhttps://www.usgs.gov/data-management/data-dictionaries\n\nSkim the readr cheatsheet:\n\nhttps://raw.githubusercontent.com/rstudio/cheatsheets/main/data-import.pdf\nKeep in mind, your goal shouldn’t be to memorize everything, but rather to get a sense of what functionality is available to you, and how you could reference this cheatsheet or follow up on its contents to make use of it.\n\nFundamentals of Data Visualization, Chapter 2, Visualizing data: Mapping data onto aesthetics:\n\nhttps://clauswilke.com/dataviz/aesthetic-mapping.html\n\nFundamentals of Data Visualization, Chapter 17, The principle of proportional ink:\n\nhttps://clauswilke.com/dataviz/proportional-ink.html\n\n[Video] Introduction to ggplot2 https://www.youtube.com/watch?v=UiuA5sBEcFk\n[Video] BeginneR Workshop https://www.youtube.com/watch?v=7kuPnVZcot0 [lecture starts around 20:00]\n\nCheck the video description for the code files\n\n[Video] Intro to Git and GitHub https://www.youtube.com/watch?v=u4LIpYC0Yaw\n\nTruly extra reading for those interested in advancing their conceptual understanding of ggplot2 and the possibilities in data visualization:\n\nA Layered Grammar of Graphics, by Hadley Wickham http://vita.had.co.nz/papers/layered-grammar.pdf\nStart to get familiar with the ggplot2 book. We recommend starting with subsection 1.2 “What is the grammar of graphics?” here: https://ggplot2-book.org/introduction.html#what-is-the-grammar-of-graphics\nThe R Graph Gallery: https://r-graph-gallery.com/index.html\n\nWhat you can expect from the instructional team:\n\nWe will be reading your bios and working on sorting you into groups for the final presentation topics."
+    "text": "Outline of topics:\nlink to view slides fullscreen   link to slide PDFs\nlink to view slides fullscreen\nlink to view slides fullscreen   link to slide PDFs"
   },
   {
     "objectID": "day2.html#video-recording",
@@ -191,9 +191,9 @@
   {
     "objectID": "day2.html#resources",
     "href": "day2.html#resources",
-    "title": "Day 2 — Tuesday, January 10th, 2022",
+    "title": "Day 2",
     "section": "Resources",
-    "text": "Resources\n link to daily google doc  \n link to slide pdfs\n\nLecture 1: Programming with R\n\n\nlink to view slides fullscreen   link to slide PDFs  \n\n\nLecture 2: Data Dictionaries and Documentation\n\n\nlink to view slides fullscreen   link to slide PDFs  \n\n\nLecture 3: Reading in Data\n\n\nlink to view slides fullscreen   link to slide PDFs  \n\n\nLecture 4: Intro to ggplot2\n\n\nlink to view slides fullscreen   link to slide PDFs"
+    "text": "Resources\n link to daily google doc"
   },
   {
     "objectID": "day3.html",
@@ -474,5 +474,12 @@
     "title": "Day 1",
     "section": "Positive Affirmations",
     "text": "Positive Affirmations\n\nlink to view fullscreen\nIn text form:\nHere are some affirmations that can help you to reframe your thoughts and let go of any negative self-doubt or impostor syndrome that you may be feeling.\n\nI am capable and competent.\nI am worthy and deserving of success.\nI trust in my abilities and the effort I put forth.\nI am enough, exactly as I am.\nI am learning and growing with each challenge I face.\n\nIt’s important to remember that everyone experiences moments of self-doubt and uncertainty, and it’s okay to not feel confident all the time.\nThe key is to recognize and acknowledge those feelings, and then remind ourselves of our strengths and capabilities.\n\n\n\n\n\n\nVideo Recording from Last Year"
+  },
+  {
+    "objectID": "day2.html#last-years-video-recording",
+    "href": "day2.html#last-years-video-recording",
+    "title": "Day 2",
+    "section": "Last Year’s Video Recording",
+    "text": "Last Year’s Video Recording"
   }
 ]
