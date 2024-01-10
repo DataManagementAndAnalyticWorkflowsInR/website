@@ -17,18 +17,18 @@ Outline of topics:
 ::: {.callout-tip collapse="true"}
 ### Lecture 1: Intro to dplyr 
 
-<iframe src="https://id529.github.io/lectures/day3/lecture2-intro-to-dplyr/intro-to-dplyr.html" width="100%" height="500px"></iframe>
+<iframe src="https://id529.github.io/lectures2024/day3/lecture2-intro-to-dplyr/intro-to-dplyr.html" width="100%" height="500px"></iframe>
 
-<a href="https://id529.github.io/lectures/day3/lecture2-intro-to-dplyr/intro-to-dplyr.html" >link to view slides fullscreen</a> 
+<a href="https://id529.github.io/lectures2024/day3/lecture2-intro-to-dplyr/intro-to-dplyr.html" >link to view slides fullscreen</a> 
 
 :::
 
 ::: {.callout-tip collapse='true'}
 ### Lecture 2: Cleaning Text Data 
 
-<iframe src="https://id529.github.io/lectures/day3/lecture4-cleaning-text-data/cleaning-text-data.html" width="100%" height="500px"></iframe>
+<iframe src="https://id529.github.io/lectures2024/day3/lecture4-cleaning-text-data/cleaning-text-data.html" width="100%" height="500px"></iframe>
 
-<a href="https://id529.github.io/lectures/day3/lecture4-cleaning-text-data/cleaning-text-data.html" >link to view slides fullscreen</a> 
+<a href="https://id529.github.io/lectures2024/day3/lecture4-cleaning-text-data/cleaning-text-data.html" >link to view slides fullscreen</a> 
 :::
 
 ::: {.callout-tip collapse='true'}
