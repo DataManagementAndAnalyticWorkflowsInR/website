@@ -19,8 +19,8 @@ website:
           href: day1.qmd
         - text: Day 2
           href: day2.qmd
-        # - text: Day 2 — Tuesday January 9, 2024
-        #   href: day2.qmd
+        - text: Day 3
+          href: day3.qmd
         # - text: Day 3 — Wednesday January 10, 2024
         #   href: day3.qmd
         # - text: Day 4 — Thursday January 11, 2024
