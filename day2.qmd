@@ -48,6 +48,12 @@ Outline of topics:
 <a href="https://drive.google.com/file/d/1RD-Zfw8n52vNdmg33dQUsY79svMENHGW/view?usp=share_link" > link to slide PDFs </a>
 <br>
 
+:::{.callout-tip collapse='true'}
+## This Year's Video Recording 
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/NIZhm4W5wYI?si=RStEnjZcxWRu7t-G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:::
+
 
 :::{.callout-tip collapse='true'}
 ## Last Year's Video Recording
