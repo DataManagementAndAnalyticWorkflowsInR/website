@@ -47,7 +47,7 @@ Outline of Topics
 :::
 <a href="https://id529.github.io/lectures2024/day1/lecture4-intro-to-git-and-github/git-and-github.html">link to view slides fullscreen</a>
 <br>
-<a href="https://drive.google.com/file/d/1jZmoRmywDA384B0FiUyuOjguf7TpG9-V/view?usp=sharing"> link to pdf slides </a>
+<a href="https://drive.google.com/file/d/1hwfZCMgDNxpSNX9E7h1UxmXMc8vASxo_/view?usp=drive_link"> link to pdf slides </a>
 
 
 ## Positive Affirmations 
