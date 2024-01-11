@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>ID529: Data Management and Analytic Workflows in R - Day 4 — Thursday, January 12th, 2022</title>
+<title>ID529: Data Management and Analytic Workflows in R - Day 4</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -98,39 +98,19 @@ ul.task-list li input[type="checkbox"] {
     <ul class="dropdown-menu" aria-labelledby="nav-menu-curriculum">    
         <li>
     <a class="dropdown-item" href="./day1.html">
- <span class="dropdown-text">Day 1 — Monday January 8, 2024</span></a>
+ <span class="dropdown-text">Day 1</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./day2.html">
- <span class="dropdown-text">Day 2 — Tuesday January 9, 2024</span></a>
+ <span class="dropdown-text">Day 2</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./day3.html">
- <span class="dropdown-text">Day 3 — Wednesday January 10, 2024</span></a>
+ <span class="dropdown-text">Day 3</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./day4.html">
- <span class="dropdown-text">Day 4 — Thursday January 11, 2024</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./day5.html">
- <span class="dropdown-text">Day 5 — Friday January 12, 2024</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./day6.html">
- <span class="dropdown-text">Day 6 — Tuesday January 16, 2024</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./day7.html">
- <span class="dropdown-text">Day 7 — Wednesday January 17, 2024</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./day8.html">
- <span class="dropdown-text">Day 8 — Thursday January 18, 2024</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./day9.html">
- <span class="dropdown-text">Day 9 — Friday January 19, 2024</span></a>
+ <span class="dropdown-text">Day 4</span></a>
   </li>  
     </ul>
   </li>
@@ -194,20 +174,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#thursday-january-12th" id="toc-thursday-january-12th" class="nav-link active" data-scroll-target="#thursday-january-12th">Thursday January 12th</a>
-  <ul class="collapse">
-  <li><a href="#homework" id="toc-homework" class="nav-link" data-scroll-target="#homework">Homework:</a></li>
-  <li><a href="#recommended-materials" id="toc-recommended-materials" class="nav-link" data-scroll-target="#recommended-materials">Recommended Materials</a></li>
-  </ul></li>
-  <li><a href="#video-recording" id="toc-video-recording" class="nav-link" data-scroll-target="#video-recording">Video Recording</a></li>
-  <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources">Resources</a>
-  <ul class="collapse">
-  <li><a href="#lecture-1-diverse-data-sources" id="toc-lecture-1-diverse-data-sources" class="nav-link" data-scroll-target="#lecture-1-diverse-data-sources">Lecture 1: Diverse Data Sources</a></li>
-  <li><a href="#lecture-2-factors-and-date-times" id="toc-lecture-2-factors-and-date-times" class="nav-link" data-scroll-target="#lecture-2-factors-and-date-times">Lecture 2: Factors and Date-times</a></li>
-  <li><a href="#lecture-3-regression" id="toc-lecture-3-regression" class="nav-link" data-scroll-target="#lecture-3-regression">Lecture 3: Regression</a></li>
-  <li><a href="#lecture-4-creating-maps-in-r" id="toc-lecture-4-creating-maps-in-r" class="nav-link" data-scroll-target="#lecture-4-creating-maps-in-r">Lecture 4: Creating maps in R</a></li>
-  <li><a href="#lecture-5-reproducible-examples-for-getting-help-in-r" id="toc-lecture-5-reproducible-examples-for-getting-help-in-r" class="nav-link" data-scroll-target="#lecture-5-reproducible-examples-for-getting-help-in-r">Lecture 5: Reproducible examples for getting help in R</a></li>
-  </ul></li>
+  <li><a href="#lecture-3-regression" id="toc-lecture-3-regression" class="nav-link active" data-scroll-target="#lecture-3-regression">Lecture 3: Regression</a></li>
   </ul>
 </nav>
     </div>
@@ -216,7 +183,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Day 4 — Thursday, January 12th, 2022</h1>
+<h1 class="title">Day 4</h1>
 </div>
 
 
@@ -231,101 +198,110 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="thursday-january-12th" class="level2">
-<h2 class="anchored" data-anchor-id="thursday-january-12th">Thursday January 12th</h2>
+<p>Outline of topics:</p>
 <ul>
-<li>1:30-2:00 Lecture: Diverse Data Sources (APIs [tidycensus, WHO, World Bank, qualtRics], scraping web data, tabulizer, tesseract, datapasta)</li>
-<li>2:00-2:20 Discussion: What kind of sources are students interested in using in their research or future work?</li>
-<li>2:20-2:50 Lecture: How to handle factors and date-times</li>
-<li>2:50-3:00 Break</li>
-<li>3:00-3:30 Lecture: Working with Regression Model Objects: constructing and analyzing them</li>
-<li>3:30-4:15 Activity: Working with Regression Models in R</li>
-<li>4:15-4:45 Lecture: Creating maps in R</li>
-<li>4:45-5:00 Lecture: Reproducible Examples for Getting Help</li>
-<li>5:00-5:30 Time to work on final presentation materials together, peruse recommended materials, chat with classmates</li>
+<li>Lecture: Diverse Data Sources (APIs [tidycensus, WHO, World Bank, qualtRics], scraping web data, datapasta)</li>
+<li>Discussion: What kind of sources are students interested in using in their research or future work?</li>
+<li>Lecture: How to handle factors and date-times</li>
+<li>Lecture: Working with Regression Model Objects: constructing and analyzing them</li>
+<li>Activity: Working with Regression Models</li>
+<li>Lecture: Creating Maps in R</li>
+<li>Lecture: Reproducible Examples for Getting Help</li>
 </ul>
-<section id="homework" class="level3">
-<h3 class="anchored" data-anchor-id="homework">Homework:</h3>
-<ul>
-<li>Fit and report on a regression model including categorical (factor) variables</li>
-<li>Peer Review for Homework 2</li>
-</ul>
-</section>
-<section id="recommended-materials" class="level3">
-<h3 class="anchored" data-anchor-id="recommended-materials">Recommended Materials</h3>
-<p><strong>Remember! You don’t have to read all of this! Just focus on what’s most useful to you</strong>:</p>
-<ul>
-<li>Tidy Data by Hadley Wickham <a href="https://vita.had.co.nz/papers/tidy-data.pdf" class="uri">https://vita.had.co.nz/papers/tidy-data.pdf</a></li>
-<li>Diverse Data Sources
-<ul>
-<li>The readme to the datapasta package: <a href="https://github.com/MilesMcBain/datapasta" class="uri">https://github.com/MilesMcBain/datapasta</a></li>
-<li><em>Analyzing US Census Data by Kyle Walker</em>, Chapter 2: An introduction to tidycensus: <a href="https://walker-data.com/census-r/an-introduction-to-tidycensus.html" class="uri">https://walker-data.com/census-r/an-introduction-to-tidycensus.html</a></li>
-<li>The <code>readr</code> cheatsheet: <a href="https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-import.pdf" class="uri">https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-import.pdf</a></li>
-<li><em>Working with Qualtrics Data - Part 1: Importing Data, ROpenSci</em> <a href="https://ropensci.org/blog/2022/08/02/working-with-qualtrics-data-importing/" class="uri">https://ropensci.org/blog/2022/08/02/working-with-qualtrics-data-importing/</a></li>
-</ul></li>
-<li>Handling factors and date-times in R:
-<ul>
-<li><em>Chapter 15: Factors, R for Data Science by Hadley Wickham and Garrett Grolemund</em> <a href="https://r4ds.had.co.nz/factors.html" class="uri">https://r4ds.had.co.nz/factors.html</a></li>
-<li><em>Chapter 16: Dates and Times, R for Data Science by Hadley Wickham and Garrett Grolemund</em> <a href="https://r4ds.had.co.nz/dates-and-times.html" class="uri">https://r4ds.had.co.nz/dates-and-times.html</a></li>
-<li><em>Forcats cheatsheet</em> <a href="https://raw.githubusercontent.com/rstudio/cheatsheets/main/factors.pdf" class="uri">https://raw.githubusercontent.com/rstudio/cheatsheets/main/factors.pdf</a></li>
-<li><em>Lubridate cheatsheet</em> <a href="https://raw.githubusercontent.com/rstudio/cheatsheets/main/lubridate.pdf" class="uri">https://raw.githubusercontent.com/rstudio/cheatsheets/main/lubridate.pdf</a></li>
-</ul></li>
-<li>Working with Regression Models:
-<ul>
-<li><em>Introduction to <code>broom</code></em> <a href="https://broom.tidymodels.org/articles/broom.html" class="uri">https://broom.tidymodels.org/articles/broom.html</a></li>
-<li>A nice introduction to linear model diagnostics plots: <a href="https://book.stat420.org/model-diagnostics.html" class="uri">https://book.stat420.org/model-diagnostics.html</a></li>
-<li><em>Interpretation of R’s lm() output</em>: <a href="https://stats.stackexchange.com/questions/5135/interpretation-of-rs-lm-output" class="uri">https://stats.stackexchange.com/questions/5135/interpretation-of-rs-lm-output</a></li>
-</ul></li>
-<li>Mapping:
-<ul>
-<li><em>Chapter 8 Plotting Spatial Data, Spatial Data Science</em> <a href="https://r-spatial.org/book/08-Plotting.html" class="uri">https://r-spatial.org/book/08-Plotting.html</a>
-<ul>
-<li>This focuses more on <code>sf</code> which is the most modern and increasingly most popular paradigm for working with spatial data in R</li>
-</ul></li>
-<li><em>Chapter 9 Making Maps with R, Geocomputation with R</em> <a href="https://geocompr.robinlovelace.net/adv-map.html" class="uri">https://geocompr.robinlovelace.net/adv-map.html</a>
-<ul>
-<li>This chapter has a lot of focus on <code>tmap</code>, a package for creating thematic maps</li>
-</ul></li>
-</ul></li>
-</ul>
-</section>
-</section>
-<section id="video-recording" class="level2">
-<h2 class="anchored" data-anchor-id="video-recording">Video Recording</h2>
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/Fuk6k8W2Mho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
-</iframe>
-</section>
-<section id="resources" class="level2">
-<h2 class="anchored" data-anchor-id="resources">Resources</h2>
-<p><a href="https://docs.google.com/document/d/1dJIq1XKMA5IS2QTBWwQfuNSNHZBztLe851qsAKQ-LVM/edit?usp=share_link"> link to daily google doc </a> <br> <a href="https://drive.google.com/drive/folders/1Sx3Tm3FezLDxvJwsg9sJl4VTAPz_4gRg?usp=share_link"> link to PDF slides</a></p>
-<section id="lecture-1-diverse-data-sources" class="level3">
-<h3 class="anchored" data-anchor-id="lecture-1-diverse-data-sources">Lecture 1: Diverse Data Sources</h3>
+<div class="callout-tip callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Lecture 1: Diverse Data Sources
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
 <iframe src="https://id529.github.io/lectures/day4/lecture1-diverse-data-sources/diverse_data_sources.html" width="100%" height="500px">
 </iframe>
-<p><a href="https://id529.github.io/lectures/day4/lecture1-diverse-data-sources/diverse_data_sources.html">link to view slides fullscreen</a> <br> <a href="https://drive.google.com/file/d/1fIu0RB8hZUan16EWcVZsKHQwum-AT-b8/view?usp=share_link"> link to slide PDFs </a> <br></p>
-</section>
-<section id="lecture-2-factors-and-date-times" class="level3">
-<h3 class="anchored" data-anchor-id="lecture-2-factors-and-date-times">Lecture 2: Factors and Date-times</h3>
+</div>
+</div>
+</div>
+<p><a href="https://id529.github.io/lectures/day4/lecture1-diverse-data-sources/diverse_data_sources.html">link to view slides fullscreen</a> <br> <a href="https://drive.google.com/file/d/16cV6LHFiNDLvVBHuECTCZszICyZBvcT3/view?usp=drive_link"> link to slide PDFs </a></p>
+<div class="callout-tip callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Lecture 2: Factors and Date-times
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-2" class="callout-2-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
 <iframe src="https://id529.github.io/lectures/day4/lecture2-factors-and-datetimes/fct_datetime.html" width="100%" height="500px">
 </iframe>
-<p><a href="https://id529.github.io/lectures/day4/lecture2-factors-and-datetimes/fct_datetime.html">link to view slides fullscreen <br> </a><a href="https://id529.github.io/lectures/day4/factor_datetime_code/fct_datetime.R">link to follow along code</a> <br> <a href="https://drive.google.com/file/d/1ZjORbSc9zDEr26TI9jhu-_llKvQ3SmDu/view?usp=share_link"> link to slide PDFs </a> <br></p>
-</section>
+<p><a href="https://id529.github.io/lectures/day4/lecture2-factors-and-datetimes/fct_datetime.html">link to view slides fullscreen <br> <br></a></p><a href="https://id529.github.io/lectures/day4/lecture2-factors-and-datetimes/fct_datetime.html">
+</a></div><a href="https://id529.github.io/lectures/day4/lecture2-factors-and-datetimes/fct_datetime.html">
+</a></div><a href="https://id529.github.io/lectures/day4/lecture2-factors-and-datetimes/fct_datetime.html">
+</a></div><a href="https://id529.github.io/lectures/day4/lecture2-factors-and-datetimes/fct_datetime.html">
+</a><p><a href="https://id529.github.io/lectures/day4/lecture2-factors-and-datetimes/fct_datetime.html"></a><a href="https://id529.github.io/lectures/day4/factor_datetime_code/fct_datetime.R">link to follow along code</a> <br> <a href="https://drive.google.com/file/d/1AW94hM70Rfk1e9XAGu3Nb0KiVjCH0dL_/view?usp=drive_link"> link to slide PDFs </a></p>
 <section id="lecture-3-regression" class="level3">
 <h3 class="anchored" data-anchor-id="lecture-3-regression">Lecture 3: Regression</h3>
-<p><a href="https://id529.github.io/lectures/day4/lecture3-regression/id529_modelingWorkflows.pdf"> link to slide PDFs</a> <br> <a href="https://github.com/jarvischen01/id529-regression-models">link to repository</a> <br></p>
-</section>
-<section id="lecture-4-creating-maps-in-r" class="level3">
-<h3 class="anchored" data-anchor-id="lecture-4-creating-maps-in-r">Lecture 4: Creating maps in R</h3>
+<p><a href="https://id529.github.io/lectures/day4/lecture3-regression/id529_modelingWorkflows.pdf"> link to slide PDFs</a> <br> <a href="https://github.com/jarvischen01/id529-regression-models">link to repository</a></p>
+<div class="callout-tip callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Lecture 4: Creating maps in R
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-3" class="callout-3-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
 <iframe src="https://id529.github.io/lectures/day4/lecture4-mapping/making-maps-in-R.html" width="100%" height="500px">
 </iframe>
-<p><a href="https://id529.github.io/lectures/day4/lecture4-mapping/making-maps-in-R.html">link to view slides fullscreen</a> <br> <a href="https://drive.google.com/file/d/1zy1RwJT1E_oZeBuor1q07rNpUuvRYB4l/view?usp=share_link"> link to slide PDFs </a> <br></p>
-</section>
-<section id="lecture-5-reproducible-examples-for-getting-help-in-r" class="level3">
-<h3 class="anchored" data-anchor-id="lecture-5-reproducible-examples-for-getting-help-in-r">Lecture 5: Reproducible examples for getting help in R</h3>
-<p><br> <iframe src="https://id529.github.io/lectures/day4/lecture5-reprex/reprex.html" width="100%" height="500px"></iframe> <a href="https://id529.github.io/lectures/day4/lecture5-reprex/reprex.html">link to view slides fullscreen </a> <br> <a href="https://drive.google.com/file/d/1qx0uWyigQs7eWo89fI3CmXJzjMc2dEjK/view?usp=share_link"> link to slide PDFs </a> <br></p>
+</div>
+</div>
+</div>
+<p><a href="https://id529.github.io/lectures/day4/lecture4-mapping/making-maps-in-R.html">link to view slides fullscreen</a> <br> <a href="https://drive.google.com/file/d/1Gadu3hkoLJtTJhUxSrt_OpYXXEf9KBDo/view?usp=drive_link"> link to slide PDFs </a></p>
+<div class="callout-tip callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Lecture 5: Reproducible examples for getting help in R
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-4" class="callout-4-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><br> <iframe src="https://id529.github.io/lectures2024/day4/lecture5-reprex/reprex.html" width="100%" height="500px"></iframe></p>
+</div>
+</div>
+</div>
+<p><a href="https://id529.github.io/lectures2024/day4/lecture5-reprex/reprex.html">link to view slides fullscreen </a> <br> <a href="https://drive.google.com/file/d/1Zvo13PAlxBjTyCBPaXwstE5E1ufjRlL4/view?usp=drive_link"> link to slide PDFs </a></p>
+<div class="callout-tip callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-5-contents" aria-controls="callout-5" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Last Year’s Video Recording
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-5" class="callout-5-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/Fuk6k8W2Mho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
+</iframe>
+</div>
+</div>
+</div>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
