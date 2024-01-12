@@ -10,7 +10,6 @@ Outline of topics:
 
   - Lab (1 hour in FXB G12)
   - Reproducibility and Robustness
-  - Data Dictionaries and Documentation 
   - Visualizing and Reporting on Regression 
   - QR Code Activity 
   - Data Linkage Methods 
@@ -173,6 +172,7 @@ model_results |>
 <a href="https://drive.google.com/file/d/1x5qKKmHCIaHb2KJvkvioVHSUBUkdrGEy/view?usp=share_link" > link to slide PDFs </a>
 <br>
 
+<!-- 
 ::: {.callout-tip collapse='true'}
 ### Lecture 2: Data Dictionaries and Documentation
 <iframe src="https://id529.github.io/lectures/day2/lecture2-data-dictionaries-and-documentation/data-documentation.html#/data-dictionaries" width="100%" height="500px"></iframe>
@@ -182,9 +182,10 @@ model_results |>
 <a href="https://drive.google.com/file/d/1tlhk9Ach86d4cwkCzzlG1wfJdq3cByX2/view?usp=share_link" > link to slide PDFs </a>
 <br>
 :::
+--> 
 
 ::: {.callout-tip collapse='true'}
-### Lecture 3: Regression (part 2!)
+### Lecture 2: Regression (part 2!)
 
 <iframe src="https://id529.github.io/lectures2024/day5/lecture2-regression-reporting/id529_day5_regression_pretty_outputqmd.html" width="100%" height="500px"></iframe>
 :::
@@ -197,7 +198,7 @@ model_results |>
 <br> 
 
 ::: {.callout-tip collapse='true'}
-### Lecture 4: Data linkage methods
+### Lecture 3: Data linkage methods
 
 <iframe src="https://id529.github.io/lectures/day5/lecture3-data-linkage-methods/data-linkage-methods.html" width="100%" height="500px"></iframe> 
 :::
