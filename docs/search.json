@@ -109,7 +109,7 @@
     "href": "day7.html",
     "title": "Day 7",
     "section": "",
-    "text": "Outline:\n\nAn Analysis Start-to-Finish: Environmental Monitoring\nLongitudinal Data Analysis\nVisualizing Missing Data\nEasy Exploratory Data Analysis\nPrinciples for Clean Code\n\n\n\n\n\n\n\nLecture 2: Exploratory data analysis – Longitudinal data analysis\n\n\n\n\n\n link to longitudinal_eda.R script    link to make_simulated_data.R script \n\n\n\n\n\n\n\n\n\nLecture 3: Missing data\n\n\n\n\n\n\n\nlink to view slides fullscreen   link to slide PDFs    link to missing-demo.R script \n\n\n\n\n\n\n\n\n\nLecture 4: Accessible exploratory data analysis\n\n\n\n\n\n link to eda.R script \n\n\n\n\n\n\n\n\n\nLecture 5: Clean code and considerate coding\n\n\n\n\n\n\n\nthe tidyverse style guide\n\n\n\n\n\n\n\n\n\nLast Year’s Video Recording"
+    "text": "Outline:\n\nAn Analysis Start-to-Finish: Environmental Monitoring\nLongitudinal Data Analysis\nVisualizing Missing Data\nEasy Exploratory Data Analysis\nPrinciples for Clean Code\n\n\n\n\n\n\n\nLecture 2: Exploratory data analysis – Longitudinal data analysis\n\n\n\n\n\n\n\nlink to view fullscreen    link to longitudinal_eda.R script    link to make_simulated_data.R script \n\n\n\n\n\n\n\n\n\nLecture 3: Missing data\n\n\n\n\n\n\n\nlink to view slides fullscreen   link to slide PDFs    link to missing-demo.R script \n\n\n\n\n\n\n\n\n\nLecture 4: Accessible exploratory data analysis\n\n\n\n\n\n link to eda.R script \n\n\n\n\n\n\n\n\n\nLecture 5: Clean code and considerate coding\n\n\n\n\n\n\n\nthe tidyverse style guide\n\n\n\n\n\n\n\n\n\nLast Year’s Video Recording"
   },
   {
     "objectID": "day7.html#video-recording",
