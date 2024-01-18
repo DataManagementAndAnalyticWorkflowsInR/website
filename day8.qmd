@@ -6,40 +6,44 @@ sidebar:
   contents: auto
 ---
 
-{{< include ../lectures/day8/readme-day8.md >}}
+Outline: 
 
-## Video Recording 
+  - Principles for Data Analysis 
+  - Functional Programming
+  - COVID OSHA Example
+  - Student Choice
+  - Age Standardization 
+  - Baby Boom Visualization
+  - R4DS Giveaway
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/ztKPu52UQfU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-Apologies the lecture recording didn't capture 
-the first lecture of the day. 
-
-## Resources
-
-<br>
-<a href="https://drive.google.com/drive/folders/1nagsDlsJAMYJJbqgolw9jxzgifME_7we?usp=share_link"> link to PDF slides</a>
-<br>
-<a href="https://docs.google.com/document/d/1Jlyhf-iJVroIPl-YcwGDDjkbHMmiJNLmxo1w_kb8LhE/edit#"> link to daily google doc </a>
-<br>
-
+:::{.callout-tip collapse='true'}
 ### Lecture 1: Principles for data analysis
 <iframe src="https://id529.github.io/lectures/day8/lecture1-principles-for-data-analysis/principles.html" width="100%" height="500px"></iframe>
+:::
 <a href="https://id529.github.io/lectures/day8/lecture1-principles-for-data-analysis/principles.html"> link to view slides fullscreen </a>
 <br>
 <a href="https://drive.google.com/file/d/1UTPf78R_x2yoLq5NvDHPSEGIOn9MDf7P/view?usp=share_link"> link to PDF slides </a> 
 
+:::{.callout-tip collapse='true'}
 ### Lecture 2: Functional Programming
 
-<a href="https://github.com/ID529/lectures/blob/abffdc14d085305f1710f73741a0d0f58c926f51/day8/lecture2-functional-programming/functional_programming.R"> link to functional_programming.R script </a>
+[Placeholder: link to gist from class will be posted after]
+:::
 
-### Lecture 3: dplyr (student choice)
+:::{.callout-tip collapse='true'}
+### COVID OSHA Example 
 
-<a href="https://github.com/ID529/lectures/blob/abffdc14d085305f1710f73741a0d0f58c926f51/day8/lecture3-students-choice/dplyr_demo.R"> dplyr_demo.R script </a>
+Link to Project: <https://github.com/ctesta01/covid_osha>
+:::
 
-### Lecture 4: Growing as a programmer
-<iframe src="https://id529.github.io/lectures/day8/lecture4-growing-as-a-programmer/growing.html" width="100%" height="500px"></iframe>
-<a href="https://id529.github.io/lectures/day8/lecture4-growing-as-a-programmer/growing.html"> link to view slides fullscreen </a>
-<br> 
-<a href="https://drive.google.com/file/d/17k1mQ-iY_CUsBMknJzxs7j38ycacmowS/view?usp=share_link">link to PDF slides</a>
+:::{.callout-tip collapse='true'}
+### Student Choice
 
+<a href="https://gist.github.com/ctesta01/3d1a86c4ab778896ef6cbaaa92919230">link to gist</a>
+:::
+
+:::{.callout-tip collapse='true'}
+## Last Year's Video Recording 
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/ztKPu52UQfU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:::

@@ -15,6 +15,14 @@ format: html
 
 <object data="/assets/january2023_presentations/Clean Code and Code Hygiene.pdf" width='100%' height='500'></object>
 
+### Lecture 4: Growing as a programmer
+<iframe src="https://id529.github.io/lectures/day8/lecture4-growing-as-a-programmer/growing.html" width="100%" height="500px"></iframe>
+<a href="https://id529.github.io/lectures/day8/lecture4-growing-as-a-programmer/growing.html"> link to view slides fullscreen </a>
+<br> 
+<a href="https://drive.google.com/file/d/17k1mQ-iY_CUsBMknJzxs7j38ycacmowS/view?usp=share_link">link to PDF slides</a>
+
+
+
 ### Code Commenting and Documentation
 
 <object data="/assets/january2023_presentations/Code Commenting and Documentation.pdf" width='100%' height='500'></object>

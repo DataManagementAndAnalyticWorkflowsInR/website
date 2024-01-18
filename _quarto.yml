@@ -29,8 +29,8 @@ website:
           href: day6.qmd
         - text: Day 7
           href: day7.qmd
-        # - text: Day 8 — Thursday January 18, 2024
-        #   href: day8.qmd
+        - text: Day 8
+          href: day8.qmd
         # - text: Day 9 — Friday January 19, 2024
         #   href: day9.qmd
       - text: Last Years' Content
