@@ -1,5 +1,5 @@
 ---
-title: "Day 9 — Friday, January 19th, 2022"
+title: "Day 9"
 format: html
 ---
 

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>ID529: Data Management and Analytic Workflows in R - Day 8 — Thursday, January 19th, 2022</title>
+<title>ID529: Data Management and Analytic Workflows in R - Day 8</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -193,7 +193,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Day 8 — Thursday, January 19th, 2022</h1>
+<h1 class="title">Day 8</h1>
 </div>
 
 
@@ -248,7 +248,7 @@ Lecture 2: Functional Programming
 </div>
 <div id="callout-2" class="callout-2-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p>[Placeholder: link to gist from class will be posted after]</p>
+<p><a href="https://gist.github.com/ctesta01/93a27ebf887c6371f7bfebb8551f35c3">link to functional programming demo script</a></p>
 </div>
 </div>
 </div>
@@ -258,7 +258,7 @@ Lecture 2: Functional Programming
 <i class="callout-icon"></i>
 </div>
 <div class="callout-caption-container flex-fill">
-COVID OSHA Example
+COVID OSHA Project Example
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -280,7 +280,7 @@ Student Choice
 </div>
 <div id="callout-4" class="callout-4-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p><a href="https://gist.github.com/ctesta01/3d1a86c4ab778896ef6cbaaa92919230">link to gist</a></p>
+<p><a href="https://gist.github.com/ctesta01/3d1a86c4ab778896ef6cbaaa92919230">link to script that goes over requested topics</a></p>
 </div>
 </div>
 </div>
@@ -290,11 +290,34 @@ Student Choice
 <i class="callout-icon"></i>
 </div>
 <div class="callout-caption-container flex-fill">
-Last Year’s Video Recording
+Kieran Healy’s Baby Boom Data Visualization Poster
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-5" class="callout-5-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Together we took a look at <a href="https://kieranhealy.org/blog/archives/2023/12/20/the-baby-boom-again/">this poster</a> from Kieran Healy and the code from <a href="https://github.com/kjhealy/us_births">the repository</a>.</p>
+<p>The example was instructive on a few points:</p>
+<ul>
+<li>We thought it was neat how Kieran used the legend to create a title.</li>
+<li>We saw how he used <code>cowplot::plot_grid</code> and/or the <code>patchwork</code> package to construct the graphic with multiple panels.</li>
+<li>Seeing how <code>png()</code> and <code>pdf()</code> can be used, similar to <code>ggsave()</code>, to save plots was useful — especially for non-ggplot2 visualizations.</li>
+<li>We had to do a little bit of debugging, figuring out that we needed to use <code>scale_x_yearmonth()</code> instead of <code>scale_x_date()</code> and we figured that out by 1) reading the error we got in R, and 2) checking what the class/type of the column mapped onto the <code>x</code> aesthetic was.</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="callout-tip callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-6-contents" aria-controls="callout-6" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Last Year’s Video Recording
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-6" class="callout-6-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/ztKPu52UQfU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
 </iframe>

@@ -9,9 +9,9 @@
   {
     "objectID": "day8.html",
     "href": "day8.html",
-    "title": "Day 8 — Thursday, January 19th, 2022",
+    "title": "Day 8",
     "section": "",
-    "text": "Outline:\n\nPrinciples for Data Analysis\nFunctional Programming\nCOVID OSHA Example\nStudent Choice\nAge Standardization\nBaby Boom Visualization\nR4DS Giveaway\n\n\n\n\n\n\n\nLecture 1: Principles for data analysis\n\n\n\n\n\n\n\n\n\n\n link to view slides fullscreen    link to PDF slides \n\n\n\n\n\n\nLecture 2: Functional Programming\n\n\n\n\n\n[Placeholder: link to gist from class will be posted after]\n\n\n\n\n\n\n\n\n\nCOVID OSHA Example\n\n\n\n\n\nLink to Project: https://github.com/ctesta01/covid_osha\n\n\n\n\n\n\n\n\n\nStudent Choice\n\n\n\n\n\nlink to gist\n\n\n\n\n\n\n\n\n\nLast Year’s Video Recording"
+    "text": "Outline:\n\nPrinciples for Data Analysis\nFunctional Programming\nCOVID OSHA Example\nStudent Choice\nAge Standardization\nBaby Boom Visualization\nR4DS Giveaway\n\n\n\n\n\n\n\nLecture 1: Principles for data analysis\n\n\n\n\n\n\n\n\n\n\n link to view slides fullscreen    link to PDF slides \n\n\n\n\n\n\nLecture 2: Functional Programming\n\n\n\n\n\nlink to functional programming demo script\n\n\n\n\n\n\n\n\n\nCOVID OSHA Project Example\n\n\n\n\n\nLink to Project: https://github.com/ctesta01/covid_osha\n\n\n\n\n\n\n\n\n\nStudent Choice\n\n\n\n\n\nlink to script that goes over requested topics\n\n\n\n\n\n\n\n\n\nKieran Healy’s Baby Boom Data Visualization Poster\n\n\n\n\n\nTogether we took a look at this poster from Kieran Healy and the code from the repository.\nThe example was instructive on a few points:\n\nWe thought it was neat how Kieran used the legend to create a title.\nWe saw how he used cowplot::plot_grid and/or the patchwork package to construct the graphic with multiple panels.\nSeeing how png() and pdf() can be used, similar to ggsave(), to save plots was useful — especially for non-ggplot2 visualizations.\nWe had to do a little bit of debugging, figuring out that we needed to use scale_x_yearmonth() instead of scale_x_date() and we figured that out by 1) reading the error we got in R, and 2) checking what the class/type of the column mapped onto the x aesthetic was.\n\n\n\n\n\n\n\n\n\n\nLast Year’s Video Recording"
   },
   {
     "objectID": "day8.html#video-recording",
