@@ -31,8 +31,8 @@ website:
           href: day7.qmd
         - text: Day 8
           href: day8.qmd
-        # - text: Day 9 — Friday January 19, 2024
-        #   href: day9.qmd
+        - text: Day 9
+          href: day9.qmd
       - text: Last Years' Content
         icon: mortarboard
         menu:

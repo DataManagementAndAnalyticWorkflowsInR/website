@@ -164,6 +164,6 @@ And lots more 🙂
 - [Day 6 — Tuesday January 16th, 2024](/day6.html) 
 - [Day 7 — Wednesday January 17th, 2024](/day7.html) 
 - [Day 8 — Thursday January 18th, 2024](/day8.html) 
-<!-- - [Day 9 — Friday January 19th, 2024](/day9.html) --> 
+- [Day 9 — Friday January 19th, 2024](/day9.html)
 
 <iframe>
