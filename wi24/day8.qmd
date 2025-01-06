@@ -18,9 +18,9 @@ Outline:
 
 :::{.callout-tip collapse='true'}
 ### Lecture 1: Principles for data analysis
-<iframe src="https://id529.github.io/slides-day8/lecture1-principles-for-data-analysis/principles.html" width="100%" height="500px"></iframe>
+<iframe src="https://id529.github.io/lectures/day8/lecture1-principles-for-data-analysis/principles.html" width="100%" height="500px"></iframe>
 :::
-<a href="https://id529.github.io/slides-day8/lecture1-principles-for-data-analysis/principles.html"> link to view slides fullscreen </a>
+<a href="https://id529.github.io/lectures/day8/lecture1-principles-for-data-analysis/principles.html"> link to view slides fullscreen </a>
 <br>
 <a href="https://drive.google.com/file/d/1UTPf78R_x2yoLq5NvDHPSEGIOn9MDf7P/view?usp=share_link"> link to PDF slides </a> 
 

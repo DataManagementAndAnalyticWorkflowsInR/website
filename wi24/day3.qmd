@@ -17,11 +17,11 @@ Outline of topics:
 ::: {.callout-tip collapse="true"}
 ### Lecture 1: Intro to dplyr 
 
-<iframe src="https://id529.github.io/slides-day3/lecture2-intro-to-dplyr/intro-to-dplyr.html" width="100%" height="500px"></iframe>
+<iframe src="https://id529.github.io/lectures2024/day3/lecture2-intro-to-dplyr/intro-to-dplyr.html" width="100%" height="500px"></iframe>
 
 :::
 
-<a href="https://id529.github.io/slides-day3/lecture2-intro-to-dplyr/intro-to-dplyr.html" >link to view slides fullscreen</a> <br>
+<a href="https://id529.github.io/lectures2024/day3/lecture2-intro-to-dplyr/intro-to-dplyr.html" >link to view slides fullscreen</a> <br>
 
 [link to slides pdf](https://drive.google.com/file/d/13TPSeGYzeYmrU377AtffMWZuQOpF8SkP/view?usp=drive_link)
 
@@ -29,43 +29,43 @@ Outline of topics:
 ::: {.callout-tip collapse='true'}
 ### Lecture 2: Cleaning Text Data 
 
-<iframe src="https://id529.github.io/slides-day3/lecture4-cleaning-text-data/cleaning-text-data.html" width="100%" height="500px"></iframe>
+<iframe src="https://id529.github.io/lectures2024/day3/lecture4-cleaning-text-data/cleaning-text-data.html" width="100%" height="500px"></iframe>
 
 :::
 
-<a href="https://id529.github.io/slides-day3/lecture4-cleaning-text-data/cleaning-text-data.html" >link to view slides fullscreen</a> 
+<a href="https://id529.github.io/lectures2024/day3/lecture4-cleaning-text-data/cleaning-text-data.html" >link to view slides fullscreen</a> 
 
 [link to slides pdf](https://drive.google.com/file/d/13Lu4HxLgc05mqBGlzWXWIDzKgsPsCXza/view?usp=drive_link)
 
 ::: {.callout-tip collapse='true'}
 ### Activity: Cleaning Data 
 
-<iframe src="https://id529.github.io/slides-day3/activity-data-cleaning/activity-data-cleaning.html" width="100%" height="500px"></iframe>
+<iframe src="https://id529.github.io/lectures/day3/activity-data-cleaning/activity-data-cleaning.html" width="100%" height="500px"></iframe>
 
 :::
 
-<a href="https://id529.github.io/slides-day3/activity-data-cleaning/activity-data-cleaning.html" >link to view slides fullscreen</a> 
+<a href="https://id529.github.io/lectures/day3/activity-data-cleaning/activity-data-cleaning.html" >link to view slides fullscreen</a> 
 
 [link to slides pdf](https://drive.google.com/file/d/1UYEMs369VJWR_Au07rUXe2tkT1r54OAn/view?usp=drive_link)
 
 ::: {.callout-tip collapse='true'}
 ### Lecture 3: Functions 
 
-<iframe src="https://id529.github.io/slides-day3/lecture5-functions/functions.html" width="100%" height="500px"></iframe>
+<iframe src="https://id529.github.io/lectures/day3/lecture5-functions/functions.html" width="100%" height="500px"></iframe>
 :::
 
-<a href="https://id529.github.io/slides-day3/lecture5-functions/functions.html" >link to view slides fullscreen</a> 
+<a href="https://id529.github.io/lectures/day3/lecture5-functions/functions.html" >link to view slides fullscreen</a> 
 
 [link to slides pdf](https://drive.google.com/file/d/1xrL0x0nyu9iWkWMtfhoTb0-hqviVTbhm/view?usp=drive_link)
 
 :::{.callout-tip collapse='true'}
-## Video Recording from Last Year
+## Video Recording 
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/GsZIGBL2hpQ?si=Jr54z8m1fTl8FS4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 :::
 
 :::{.callout-tip collapse='true'}
-## Video Recording from 2023
+## Last Year's Video Recording
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/g5s2jibMhAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 :::

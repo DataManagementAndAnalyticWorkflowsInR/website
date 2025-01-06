@@ -16,36 +16,36 @@ Outline of Topics
 
 ::: {.callout-tip collapse="true"}
 ### View Slides for Intro to ID529 
-<iframe src="https://id529.github.io/slides-day1/lecture1-intro/lecture1.html#/title-slide" width="100%" height="500px"></iframe>
+<iframe src="https://id529.github.io/lectures2024/day1/lecture1-intro/lecture1.html#/title-slide" width="100%" height="500px"></iframe>
 :::
-[view slides fullscreen](https://id529.github.io/slides-day1/lecture1-intro/lecture1.html)
+[view slides fullscreen](https://id529.github.io/lectures2024/day1/lecture1-intro/lecture1.html)
 <br>
 [link to pdf slides](https://drive.google.com/file/d/1uWlnzrJG7IvHxEkqyXSltq6GgzpLrIbG/view?usp=sharing">link to pdf slides)
 
 
 ::: {.callout-tip collapse="true"}
 ### Slides for Final Project Format
-<iframe src="https://id529.github.io/slides-day1/lecture2-final-project/final_presentation_format.html#/title-slide" width="100%" height="500px"></iframe>
+<iframe src="https://id529.github.io/lectures2024/day1/lecture2-final-project/final_presentation_format.html#/title-slide" width="100%" height="500px"></iframe>
 :::
-<a href="https://id529.github.io/slides-day1/lecture2-final-project/final_presentation_format.html#/title-slide">link to view slides fullscreen</a>
+<a href="https://id529.github.io/lectures2024/day1/lecture2-final-project/final_presentation_format.html#/title-slide">link to view slides fullscreen</a>
 <br>
 <a href="https://drive.google.com/file/d/1DSH6ttviFiYyJBVTXNpB7qkAVRM8LgMl/view?usp=sharing">link to pdf slides</a>
 
 
 ::: {.callout-tip collapse="true"}
 ### View Slides for Intro to RStudio and R
-<iframe src="https://id529.github.io/slides-day1/lecture3-intro-to-rstudio-and-r/rstudio-and-r.html" width="100%" height="500px"></iframe>
+<iframe src="https://id529.github.io/lectures2024/day1/lecture3-intro-to-rstudio-and-r/rstudio-and-r.html" width="100%" height="500px"></iframe>
 :::
-<a href="https://id529.github.io/slides-day1/lecture3-intro-to-rstudio-and-r/rstudio-and-r.html">link to view slides fullscreen</a>
+<a href="https://id529.github.io/lectures2024/day1/lecture3-intro-to-rstudio-and-r/rstudio-and-r.html">link to view slides fullscreen</a>
 <br>
 <a href="https://drive.google.com/file/d/1yoQbQbOBdJ-bKydzWnk1KK9rmChAxh3x/view?usp=sharing">link to pdf slides</a>
 
 
 ::: {.callout-tip collapse="true"}
 ### View Slides for Git and GitHub
-<iframe src="https://id529.github.io/slides-day1/lecture4-intro-to-git-and-github/git-and-github.html" width="100%" height="500px"></iframe>
+<iframe src="https://id529.github.io/lectures2024/day1/lecture4-intro-to-git-and-github/git-and-github.html" width="100%" height="500px"></iframe>
 :::
-<a href="https://id529.github.io/slides-day1/lecture4-intro-to-git-and-github/git-and-github.html">link to view slides fullscreen</a>
+<a href="https://id529.github.io/lectures2024/day1/lecture4-intro-to-git-and-github/git-and-github.html">link to view slides fullscreen</a>
 <br>
 <a href="https://drive.google.com/file/d/1hwfZCMgDNxpSNX9E7h1UxmXMc8vASxo_/view?usp=drive_link"> link to pdf slides </a>
 
@@ -81,7 +81,7 @@ It's important to remember that everyone experiences moments of self-doubt and u
 The key is to recognize and acknowledge those feelings, and then remind ourselves of our strengths and capabilities.
 
 :::{.callout-tip collapse='true'}
-## Video Recording from Last Year 
+## Video Recording from This Year 
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/mlvUvYRrQOQ?si=7M3NcDjilhV1qQDS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -90,7 +90,7 @@ prior years' recording for that section if you'd like.
 :::
 
 ::: {.callout-tip collapse="true"}
-## Video Recording from 2023 
+## Video Recording from Last Year
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/yxvROGxWys0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 :::
