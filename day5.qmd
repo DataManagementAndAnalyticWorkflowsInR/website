@@ -8,7 +8,6 @@ sidebar:
 
 Outline of topics: 
 
-  - Lab (1 hour in FXB G12)
   - Reproducibility and Robustness
   - Visualizing and Reporting on Regression 
   - QR Code Activity 

@@ -79,5 +79,5 @@ website:
 
 format:
   html:
-    theme: [lumen, styles.scss]
+    theme: [cosmo, styles.scss]
     toc: true
