@@ -21,14 +21,14 @@ Outline of topics:
 ### Lecture 1: Programming with R
 <iframe src="https://id529.github.io/slides-day2/lecture1-intro-to-r/programming_with_r.html#/title-slide" width="100%" height="500px"></iframe>
 :::
-<a href="https://id529.github.io/slides-day2/lecture1-intro-to-r/programming_with_r.html" >link to view slides fullscreen</a> 
+<a href="https://id529.github.io/slides-day2/lecture1-intro-to-r/programming_with_r.html" target="_blank">link to view slides fullscreen</a> 
 <br>
 
 ::: {.callout-tip collapse="true"}
 ### Lecture 2: Project Workflows in R 
 <iframe src="https://id529.github.io/slides-day2/lecture2-projects-in-rstudio/r-projects.html#/title-slide" width="100%" height="500px"></iframe>
 :::
-<a href="https://id529.github.io/slides-day2/lecture2-projects-in-rstudio/r-projects.html#/title-slide" >link to view slides fullscreen</a>
+<a href="https://id529.github.io/slides-day2/lecture2-projects-in-rstudio/r-projects.html#/title-slide" target="_blank">link to view slides fullscreen</a>
 <br>
 
 
@@ -36,21 +36,21 @@ Outline of topics:
 ### Lecture 3: Reading in Data
 <iframe src="https://id529.github.io/slides-day2/lecture3-reading-in-data/reading-in-data.html" width="100%" height="500px"></iframe>
 :::
-<a href="https://id529.github.io/slides-day2/lecture3-reading-in-data/reading-in-data.html" >link to view slides fullscreen</a>
+<a href="https://id529.github.io/slides-day2/lecture3-reading-in-data/reading-in-data.html" target="_blank">link to view slides fullscreen</a>
 <br>
 
 ::: {.callout-tip collapse="true"}
 ### Lecture 4: Intro to ggplot2
 <iframe src="https://id529.github.io/slides-day2/lecture4-intro-to-ggplot2/ggplot2.html" width="100%" height="500px"></iframe>
 :::
-<a href="https://id529.github.io/slides-day2/lecture4-intro-to-ggplot2/ggplot2.html" >link to view slides fullscreen</a>
+<a href="https://id529.github.io/slides-day2/lecture4-intro-to-ggplot2/ggplot2.html" target="_blank">link to view slides fullscreen</a>
 <br>
 
 ::: {.callout-tip collapse="true"}
 ### Activity: Data Visualization
 <iframe src="https://id529.github.io/slides-day2/activity1-visualization/activity1-visualization.html" width="100%" height="500px"></iframe>
 :::
-<a href="https://id529.github.io/slides-day2/activity1-visualization/activity1-visualization.html" >link to view slides fullscreen</a>
+<a href="https://id529.github.io/slides-day2/activity1-visualization/activity1-visualization.html" target="_blank">link to view slides fullscreen</a>
 <br>
 
 ## Recordings
