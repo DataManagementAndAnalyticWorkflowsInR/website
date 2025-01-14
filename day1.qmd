@@ -87,13 +87,19 @@ It's important to remember that everyone experiences moments of self-doubt and u
 
 The key is to recognize and acknowledge those feelings, and then remind ourselves of our strengths and capabilities.
 
+:::{.callout-tip collapse='false'}
+## Video Recording from 2025 
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/wUFstBStHZE?si=oeEXwYpykFTvIAqF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::
+
 :::{.callout-tip collapse='true'}
-## Video Recording from Last Year 
+## Video Recording from 2024
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/mlvUvYRrQOQ?si=7M3NcDjilhV1qQDS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Apologies we accidentally didn't capture the RStudio and R talk on this recording. See the 
-prior years' recording for that section if you'd like. 
+Apologies we accidentally didn't capture the RStudio and R talk on this
+recording. See other years' recording for that section if you'd like. 
 :::
 
 ::: {.callout-tip collapse="true"}
