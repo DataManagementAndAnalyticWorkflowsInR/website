@@ -14,7 +14,7 @@ Outline of Topics
 
 ## Slides
 
-::: {.callout-tip collapse="true"}
+::: {.callout-tip collapse="false"}
 ### Lecture 0 — Welcome to ID529 
 [![](assets/lecture0_cover.png)](https://raw.githubusercontent.com/ID529/slides-day1/refs/heads/main/lecture0-welcome/id529_intro.pdf)
 :::
@@ -27,7 +27,6 @@ Outline of Topics
 :::
 [view slides fullscreen](https://id529.github.io/slides-day1/lecture1-intro/lecture1.html)
 <br>
-[link to pdf slides](https://drive.google.com/file/d/1uWlnzrJG7IvHxEkqyXSltq6GgzpLrIbG/view?usp=sharing">link to pdf slides)
 
 
 ::: {.callout-tip collapse="true"}
@@ -36,7 +35,6 @@ Outline of Topics
 :::
 <a href="https://id529.github.io/slides-day1/lecture2-final-project/final_presentation_format.html#/title-slide">link to view slides fullscreen</a>
 <br>
-<a href="https://drive.google.com/file/d/1DSH6ttviFiYyJBVTXNpB7qkAVRM8LgMl/view?usp=sharing">link to pdf slides</a>
 
 
 ::: {.callout-tip collapse="true"}
@@ -45,7 +43,6 @@ Outline of Topics
 :::
 <a href="https://id529.github.io/slides-day1/lecture3-intro-to-rstudio-and-r/rstudio-and-r.html">link to view slides fullscreen</a>
 <br>
-<a href="https://drive.google.com/file/d/1yoQbQbOBdJ-bKydzWnk1KK9rmChAxh3x/view?usp=sharing">link to pdf slides</a>
 
 
 ::: {.callout-tip collapse="true"}
@@ -54,7 +51,6 @@ Outline of Topics
 :::
 <a href="https://id529.github.io/slides-day1/lecture4-intro-to-git-and-github/git-and-github.html">link to view slides fullscreen</a>
 <br>
-<a href="https://drive.google.com/file/d/1hwfZCMgDNxpSNX9E7h1UxmXMc8vASxo_/view?usp=drive_link"> link to pdf slides </a>
 
 
 ## Positive Affirmations 

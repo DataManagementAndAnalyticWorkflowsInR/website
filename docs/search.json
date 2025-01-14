@@ -179,7 +179,7 @@
     "href": "day2.html",
     "title": "Day 2",
     "section": "",
-    "text": "Outline of topics:\nlink to view slides fullscreen   link to slide PDFs\nlink to view slides fullscreen  link to slides PDF\nlink to view slides fullscreen  link to slide PDFs\nlink to view slides fullscreen   link to slide PDFs"
+    "text": "Outline of topics:"
   },
   {
     "objectID": "day2.html#video-recording",
@@ -466,7 +466,7 @@
     "href": "day1.html#slides",
     "title": "Day 1",
     "section": "Slides",
-    "text": "Slides\n\n\n\n\n\n\nLecture 0 — Welcome to ID529\n\n\n\n\n\n\n\n\n\nlink to pdf slides\n\n\n\n\n\n\nView Slides for Intro to ID529\n\n\n\n\n\n\n\n\n\n\nview slides fullscreen  link to pdf slides\n\n\n\n\n\n\nSlides for Final Project Format\n\n\n\n\n\n\n\n\n\n\nlink to view slides fullscreen  link to pdf slides\n\n\n\n\n\n\nView Slides for Intro to RStudio and R\n\n\n\n\n\n\n\n\n\n\nlink to view slides fullscreen  link to pdf slides\n\n\n\n\n\n\nView Slides for Git and GitHub\n\n\n\n\n\n\n\n\n\n\nlink to view slides fullscreen   link to pdf slides"
+    "text": "Slides\n\n\n\n\n\n\nLecture 0 — Welcome to ID529\n\n\n\n\n\n\n\n\n\nlink to pdf slides\n\n\n\n\n\n\nView Slides for Intro to ID529\n\n\n\n\n\n\n\n\n\n\nview slides fullscreen \n\n\n\n\n\n\nSlides for Final Project Format\n\n\n\n\n\n\n\n\n\n\nlink to view slides fullscreen \n\n\n\n\n\n\nView Slides for Intro to RStudio and R\n\n\n\n\n\n\n\n\n\n\nlink to view slides fullscreen \n\n\n\n\n\n\nView Slides for Git and GitHub\n\n\n\n\n\n\n\n\n\n\nlink to view slides fullscreen"
   },
   {
     "objectID": "day1.html#positive-affirmations",
@@ -894,5 +894,19 @@
     "title": "Day 5 — Friday, January 13th, 2023",
     "section": "",
     "text": "1:30-2:00 Lecture: Why reproducibility and robustness are important principles in science and data analysis and acknowledging the pressures in academia that push people away from reproducible science\n2:00-2:15 Discussion\n2:15-2:45 Lecture: Visualizing and Reporting on Regression Models\n2:45-3:05 Lecture: Data Linkage Methods\n3:05-3:25 Activity: Working with Joins\n3:25-3:35 Break\n3:35-4:00 Activity: Hallway QR Code Challenges\n4:00-4:15 Lecture: Introduction of the Brown et al (partial) reproduction of Onikye et al’s results\n4:15-4:30 Homework demonstration\n4:30-5:25 Time to work on homework + chat together + work on final projects\n5:25-5:30 Giveaway for a Copy of R for Data Science\n5:30 Meet Hodu!\n\n\n\n\nRead the Brown et al reproduction of Onikye et al, run their code, and fill out the worksheet\n\nhttps://open.lnu.se/index.php/metapsychology/article/view/2071\nhttps://osf.io/j32yw/\n\nPeer review for homework 3\n\n\n\n\n\nReproducibility:\n\nDraw Me A Project https://masalmon.eu/2021/06/30/r-projects/\nReproducibility of Scientific Results https://plato.stanford.edu/entries/scientific-reproducibility/\nBest Practices for Scientific Computing https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745\nGood Enough Practices for Scientific Computing https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510\nReplicability, Robustness, and Reproducibility in Psychological Science https://pure.uvt.nl/ws/portalfiles/portal/59415163/MTO_Nuijten_replicability_robustness_and_reproducibility_Annual_Review_of_Psy_2022.pdf\nA manifesto for reproducible science https://www.nature.com/articles/s41562-016-0021\n\nRegression Modeling:\n\nIntroduction to Poisson Regression, Beyond Multiple Linear Regression https://bookdown.org/roback/bookdown-BeyondMLR/ch-poissonreg.html\nPoisson Regression https://rpubs.com/franzbischoff/poisson_regression\nLogistic Regression, Beyond Multiple Linear Regression https://bookdown.org/roback/bookdown-BeyondMLR/ch-logreg.html"
+  },
+  {
+    "objectID": "day2.html#recordings",
+    "href": "day2.html#recordings",
+    "title": "Day 2",
+    "section": "Recordings",
+    "text": "Recordings\n\n\n\n\n\n\nLast Year’s Video Recording\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVideo Recording from 2023"
+  },
+  {
+    "objectID": "day2.html#slides",
+    "href": "day2.html#slides",
+    "title": "Day 2",
+    "section": "Slides",
+    "text": "Slides\n\n\n\n\n\n\nLecture 1: Programming with R\n\n\n\n\n\n\n\n\n\n\nlink to view slides fullscreen \n\n\n\n\n\n\nLecture 2: Project Workflows in R\n\n\n\n\n\n\n\n\n\n\nlink to view slides fullscreen \n\n\n\n\n\n\nLecture 3: Reading in Data\n\n\n\n\n\n\n\n\n\n\nlink to view slides fullscreen \n\n\n\n\n\n\nLecture 4: Intro to ggplot2\n\n\n\n\n\n\n\n\n\n\nlink to view slides fullscreen \n\n\n\n\n\n\nActivity: Data Visualization\n\n\n\n\n\n\n\n\n\n\nlink to view slides fullscreen"
   }
 ]

@@ -13,15 +13,15 @@ Outline of topics:
   - Activity: Learnr Tutorials
   - Lecture: Reading in data
   - Lecture: Intro to ggplot2
-  - Discussion: What makes an effective data visualization?
+  - Activity: Data Visualization
 
-::: {.callout-tip collapse="true"}
+## Slides
+
+::: {.callout-tip collapse="false"}
 ### Lecture 1: Programming with R
 <iframe src="https://id529.github.io/slides-day2/lecture1-intro-to-r/programming_with_r.html#/title-slide" width="100%" height="500px"></iframe>
 :::
 <a href="https://id529.github.io/slides-day2/lecture1-intro-to-r/programming_with_r.html" >link to view slides fullscreen</a> 
-<br>
-<a href="https://drive.google.com/file/d/1KGxdm6ezrQRi4_sqiFv7sXTBKe8HK8OF/view?usp=share_link" > link to slide PDFs </a>
 <br>
 
 ::: {.callout-tip collapse="true"}
@@ -29,9 +29,6 @@ Outline of topics:
 <iframe src="https://id529.github.io/slides-day2/lecture2-projects-in-rstudio/r-projects.html#/title-slide" width="100%" height="500px"></iframe>
 :::
 <a href="https://id529.github.io/slides-day2/lecture2-projects-in-rstudio/r-projects.html#/title-slide" >link to view slides fullscreen</a>
-<br>
-<a href="https://drive.google.com/file/d/1wlgirjofzIsumIqUl2yDkiqFL6Tw8nL7/view?usp=drive_link">link to 
-slides PDF</a>
 <br>
 
 
@@ -41,9 +38,6 @@ slides PDF</a>
 :::
 <a href="https://id529.github.io/slides-day2/lecture3-reading-in-data/reading-in-data.html" >link to view slides fullscreen</a>
 <br>
-<a href="https://drive.google.com/file/d/1KKkzisaNA5Ayfda7_f_i0b6Fv6o_MkXd/view?usp=drive_link">link
-to slide PDFs </a>
-<br>
 
 ::: {.callout-tip collapse="true"}
 ### Lecture 4: Intro to ggplot2
@@ -51,8 +45,15 @@ to slide PDFs </a>
 :::
 <a href="https://id529.github.io/slides-day2/lecture4-intro-to-ggplot2/ggplot2.html" >link to view slides fullscreen</a>
 <br>
-<a href="https://drive.google.com/file/d/1RD-Zfw8n52vNdmg33dQUsY79svMENHGW/view?usp=share_link" > link to slide PDFs </a>
+
+::: {.callout-tip collapse="true"}
+### Activity: Data Visualization
+<iframe src="https://id529.github.io/slides-day2/activity1-visualization/activity1-visualization.html" width="100%" height="500px"></iframe>
+:::
+<a href="https://id529.github.io/slides-day2/activity1-visualization/activity1-visualization.html" >link to view slides fullscreen</a>
 <br>
+
+## Recordings
 
 :::{.callout-tip collapse='true'}
 ## Last Year's Video Recording 
