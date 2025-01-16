@@ -67,7 +67,7 @@
     "href": "day4.html",
     "title": "Day 4",
     "section": "",
-    "text": "Outline of topics:\n\nLecture: Diverse Data Sources (APIs [tidycensus, WHO, World Bank, qualtRics], scraping web data, datapasta)\nDiscussion: What kind of sources are students interested in using in their research or future work?\nLecture: How to handle factors and date-times\nLecture: Working with Regression Model Objects: constructing and analyzing them\nActivity: Working with Regression Models\nLecture: Creating Maps in R\nLecture: Reproducible Examples for Getting Help\n\n\n\n\n\n\n\nLecture 1: Diverse Data Sources\n\n\n\n\n\n\n\n\n\n\nlink to view slides fullscreen   link to slide PDFs \n\n\n\n\n\n\nLecture 2: Factors and Date-times\n\n\n\n\n\n\n\nlink to view slides fullscreen  \n\n\n\nlink to follow along code   link to slide PDFs \n\nLecture 3: Regression\n link to slide PDFs  link to repository\n\n\n\n\n\n\nLecture 4: Creating maps in R\n\n\n\n\n\n\n\n\n\n\nlink to view slides fullscreen   link to slide PDFs \n\n\n\n\n\n\nLecture 5: Reproducible examples for getting help in R\n\n\n\n\n\n \n\n\n\nlink to view slides fullscreen    link to slide PDFs \n\n\n\n\n\n\nVideo Recording from Last Year\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVideo Recording from 2023"
+    "text": "Outline of topics:"
   },
   {
     "objectID": "day4.html#video-recording",
@@ -200,7 +200,7 @@
     "href": "day3.html",
     "title": "Day 3",
     "section": "",
-    "text": "Outline of topics:\n\nLecture: Intro to dplyr\nLecture: Cleaning Text Data\nActivity: Cleaning Data\nLecture: Writing Functions\nActivity: Functions\n\n\n\n\n\n\n\nLecture 1: Intro to dplyr\n\n\n\n\n\n\n\n\n\n\nlink to view slides fullscreen \n\n\n\n\n\n\nLecture 2: Cleaning Text Data\n\n\n\n\n\n\n\n\n\n\nlink to view slides fullscreen\n\n\n\n\n\n\nActivity: Cleaning Data\n\n\n\n\n\n\n\n\n\n\nlink to view slides fullscreen \nlink to github repository\n\n\n\n\n\n\nLecture 3: Functions\n\n\n\n\n\n\n\n\n\n\nlink to view slides fullscreen\n\n\n\n\n\n\nVideo Recording from Last Year\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVideo Recording from 2023"
+    "text": "Outline of topics:"
   },
   {
     "objectID": "day3.html#video-recording",
@@ -908,5 +908,33 @@
     "title": "Day 2",
     "section": "Slides",
     "text": "Slides\n\n\n\n\n\n\nLecture 1: Programming with R\n\n\n\n\n\n\n\n\n\n\nlink to view slides fullscreen \n\n\n\n\n\n\nLecture 2: Project Workflows in R\n\n\n\n\n\n\n\n\n\n\nlink to view slides fullscreen \n\n\n\n\n\n\nLecture 3: Reading in Data\n\n\n\n\n\n\n\n\n\n\nlink to view slides fullscreen \n\n\n\n\n\n\nLecture 4: Intro to ggplot2\n\n\n\n\n\n\n\n\n\n\nlink to view slides fullscreen \n\n\n\n\n\n\nActivity: Data Visualization\n\n\n\n\n\n\n\n\n\n\nlink to view slides fullscreen"
+  },
+  {
+    "objectID": "day4.html#slides",
+    "href": "day4.html#slides",
+    "title": "Day 4",
+    "section": "Slides",
+    "text": "Slides\n\n\n\n\n\n\nLecture 1: Diverse Data Sources\n\n\n\n\n\n\n\n\n\n\nlink to view slides fullscreen \n\n\n\n\n\n\nLecture 2: Factors and Date-times\n\n\n\n\n\n\n\nlink to view slides fullscreen  \n\n\n\nlink to follow along code \n\n\n\n\n\n\nLecture 3: Regression\n\n\n\n\n\n link to slide PDFs  link to repository\n\n\n\n\n\n\n\n\n\nLecture 4: Creating maps in R\n\n\n\n\n\n\n\n\n\n\nlink to view slides fullscreen\n\n\n\n\n\n\nLecture 5: Reproducible examples for getting help in R\n\n\n\n\n\n \n\n\n\nlink to view slides fullscreen"
+  },
+  {
+    "objectID": "day4.html#recordings",
+    "href": "day4.html#recordings",
+    "title": "Day 4",
+    "section": "Recordings",
+    "text": "Recordings\n\n\n\n\n\n\nVideo Recording from 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVideo Recording from 2023"
+  },
+  {
+    "objectID": "day3.html#slides",
+    "href": "day3.html#slides",
+    "title": "Day 3",
+    "section": "Slides",
+    "text": "Slides\n\n\n\n\n\n\nLecture 1: Intro to dplyr\n\n\n\n\n\n\n\n\n\n\nlink to view slides fullscreen \n\n\n\n\n\n\nLecture 2: Cleaning Text Data\n\n\n\n\n\n\n\n\n\n\nlink to view slides fullscreen\n\n\n\n\n\n\nActivity: Cleaning Data\n\n\n\n\n\n\n\n\n\n\nlink to view slides fullscreen \nlink to github repository\n\n\n\n\n\n\nLecture 3: Functions\n\n\n\n\n\n\n\n\n\n\nlink to view slides fullscreen"
+  },
+  {
+    "objectID": "day3.html#recordings",
+    "href": "day3.html#recordings",
+    "title": "Day 3",
+    "section": "Recordings",
+    "text": "Recordings\n\n\n\n\n\n\nVideo Recording from 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVideo Recording from 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVideo Recording from 2023"
   }
 ]
