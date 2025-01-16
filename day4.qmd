@@ -18,7 +18,7 @@ Outline of topics:
 
 ## Slides
 
-::: {.callout-tip collapse='true'}
+::: {.callout-tip collapse='false'}
 ### Lecture 1: Diverse Data Sources
 <iframe src="https://id529.github.io/slides-day4/lecture1-diverse-data-sources/diverse_data_sources.html" width="100%" height="500px"></iframe>
 :::
@@ -39,11 +39,11 @@ Outline of topics:
 
 ::: {.callout-tip collapse='true'}
 ### Lecture 3: Regression
+<iframe src="https://id529.github.io/slides-day4/lecture3-regression-models/id529_day4_regression_slides.html#/regression-modeling-workflows" width="100%" height="500px"></iframe>
 
-<a href = "https://id529.github.io/slides-day4/lecture3-regression/id529_modelingWorkflows.pdf" > link to slide PDFs</a> 
-<br>
-<a href="https://github.com/jarvischen01/id529-regression-models" target="_blank">link to repository</a></iframe>
 ::: 
+<a href="https://id529.github.io/slides-day4/lecture3-regression-models/id529_day4_regression_slides.html" target="_blank">link to fullscreen</a> <br>
+<a href="https://github.com/jarvischen01/id529-regression-models" target="_blank">link to repository</a>
 
 ::: {.callout-tip collapse='true'}
 ### Lecture 4: Creating maps in R 
