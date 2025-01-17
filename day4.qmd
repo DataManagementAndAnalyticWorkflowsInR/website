@@ -58,6 +58,13 @@ Outline of topics:
 <a href="https://id529.github.io/slides-day4/lecture5-reprex/reprex.html" target="_blank">link to view slides fullscreen </a>
 
 ## Recordings
+:::{.callout-tip collapse='true'}
+## Video Recording from 2025
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/taxtygnaOC8?si=yWf6aWsQVNq0Yk9G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::
+
+
 
 :::{.callout-tip collapse='true'}
 ## Video Recording from 2024
