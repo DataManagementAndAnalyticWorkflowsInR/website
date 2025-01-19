@@ -8,6 +8,7 @@ sidebar:
 
 Outline of topics: 
 
+  - Course Core Concept Script
   - Reproducibility and Robustness
   - Visualizing and Reporting on Regression 
   - QR Code Activity 
@@ -168,8 +169,6 @@ model_results |>
 :::
 <a href="https://id529.github.io/slides-day5/lecture1-reproducibility-and-robustness/reproducibility.html" >link to view slides fullscreen</a>
 <br>
-<a href="https://drive.google.com/file/d/1x5qKKmHCIaHb2KJvkvioVHSUBUkdrGEy/view?usp=share_link" > link to slide PDFs </a>
-<br>
 
 <!-- 
 ::: {.callout-tip collapse='true'}
@@ -313,14 +312,19 @@ conceptual frameworks to do science that can truly shift narratives in ways that
 benefit marginalized groups.
 :::
 
+:::{.callout-tip collapse='true'}
+## Video Recording from 2025
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/cpAMPe9sKVE?si=wV04S1Xyb0D4GtfH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::
+
 ::: {.callout-tip collapse='true'}
-## Video Recording 
+## Video Recording from 2024
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/a1b4uWT-J7M?si=SVV2fZW0beZrjb9K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 :::
 
 ::: {.callout-tip collapse='true'}
-## Last Year's Video Recording 
+## Video Recording from 2023
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/CUxrO5VVvgM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 :::
