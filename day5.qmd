@@ -15,6 +15,8 @@ Outline of topics:
   - Data Linkage Methods 
   - Onikye et al Article
 
+## Lecture Materials
+
 ::: {.callout-tip collapse='true'}
 ### Course Core Concepts Script
 
@@ -311,6 +313,8 @@ combine advances in the state of the art in computing with advances in our
 conceptual frameworks to do science that can truly shift narratives in ways that 
 benefit marginalized groups.
 :::
+
+## Recordings
 
 :::{.callout-tip collapse='true'}
 ## Video Recording from 2025

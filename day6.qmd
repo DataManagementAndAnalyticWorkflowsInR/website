@@ -13,22 +13,18 @@ Outline of topics:
   - Time to work on final project
 
 
-::: {.callout-tip collapse='true'}
+::: {.callout-tip collapse='false'}
 ### Lecture 1: R Markdown
 <iframe src="https://id529.github.io/slides-day6/lecture2-rmarkdown/intro-to-rmarkdown.html" width="100%" height="500px"></iframe>
 :::
 <a href="https://id529.github.io/slides-day6/lecture2-rmarkdown/intro-to-rmarkdown.html#/introduction-to-r-markdown" >link to view slides fullscreen</a>
 <br>
-<a href="https://drive.google.com/file/d/1W_iUgXfoFax4Y84gHmjpzUBK475Djuct/view?usp=drive_link" > link to slide PDFs </a>
-<br>
 
-::: {.callout-tip collapse='true'}
+::: {.callout-tip collapse='false'}
 ### Lecture 2: Debugging
 <iframe src="https://id529.github.io/slides-day6/lecture3-debugging/debugging.html" width="100%" height="500px"></iframe>
 :::
 <a href="https://id529.github.io/slides-day6/lecture3-debugging/debugging.html" >link to view slides fullscreen</a>
-<br>
-<a href="https://drive.google.com/file/d/1xsTx775VVd3HsfiZo08IT9nyIkPRjOol/view?usp=share_link"> link to slide PDFs </a>
 <br>
 
 ::: {.callout-tip collapse='true'}
