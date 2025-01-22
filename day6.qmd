@@ -39,7 +39,20 @@ target="_blank">link to R Markdown source file</a> <br>
 <br>
 
 ::: {.callout-tip collapse='true'}
-## Video Recording from Last Year 
+## Video Recording from 2025
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/hTjN8Evp2eQ?si=xSHqhLZzRma3hYDx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::
+
+:::{.callout-tip collapse='true'}
+## How to do the Peer Review, 2025
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/_ykWty1IIfQ?si=JI59hToogu-iQfoL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::
+
+
+::: {.callout-tip collapse='true'}
+## Video Recording from 2023
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/OKx2f8qrXmI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 :::
