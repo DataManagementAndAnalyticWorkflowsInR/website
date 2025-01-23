@@ -13,6 +13,8 @@ Outline:
   * Visualizing Missing Data 
   * Easy Exploratory Data Analysis 
   * Principles for Clean Code
+
+## Lecture Content
   
 :::{.callout-tip collapse='true'}
 ## Lecture 1: An Analysis Start to Finish 
@@ -56,6 +58,14 @@ Outline:
 
 <a href="https://style.tidyverse.org/index.html">the tidyverse style guide</a>
 
+
+## Recordings
+
+:::{.callout-tip collapse='true'}
+## Video Recording from 2025
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/4C92rZsXkXE?si=JDk3MVRP3V5G9Brk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::
 
 
 :::{.callout-tip collapse='true'}
